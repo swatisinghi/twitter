@@ -1,0 +1,5 @@
+com/twitter/model/Tweet.class
+com/twitter/manager/Consumer.class
+com/twitter/manager/Indexer.class
+com/twitter/model/TwitterUser.class
+com/twitter/app/App.class
