@@ -1,5 +1,9 @@
-/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/manager/Consumer.java
+/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/manager/ConsumerOffsetManager.java
 /Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/model/TwitterUser.java
+/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/workers/Consumer.java
+/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/manager/FileBasedQueue.java
+/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/workers/Indexer.java
+/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/manager/OffsetManager.java
 /Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/model/Tweet.java
-/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/manager/Indexer.java
+/Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/manager/TwitterQueue.java
 /Users/swati/personal/semantics3/twitter/src/main/java/com/twitter/app/App.java

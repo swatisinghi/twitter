@@ -1,5 +1,9 @@
+com/twitter/workers/Consumer.class
 com/twitter/model/Tweet.class
-com/twitter/manager/Consumer.class
-com/twitter/manager/Indexer.class
-com/twitter/model/TwitterUser.class
+com/twitter/manager/FileBasedQueue.class
+com/twitter/manager/OffsetManager.class
+com/twitter/manager/TwitterQueue.class
 com/twitter/app/App.class
+com/twitter/workers/Indexer.class
+com/twitter/model/TwitterUser.class
+com/twitter/manager/ConsumerOffsetManager.class

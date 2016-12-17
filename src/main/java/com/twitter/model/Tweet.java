@@ -3,11 +3,6 @@ package com.twitter.model;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
-import java.io.IOException;
-
-import org.elasticsearch.common.xcontent.XContentBuilder;
-
-import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
 
 public class Tweet {
 	
@@ -15,12 +10,14 @@ public class Tweet {
 	private String text;
 	private Date date;
 	private String userName;
+	private int retweetCount;
 
-	public Tweet(long id, String text, Date date, String userName) {
+	public Tweet(long id, String text, Date date, String userName, int count) {
 		this.id = id;
 		this.text = text;
 		this.date = date;
 		this.userName = userName;
+		this.retweetCount = count;
 	}
 
 	public long getId() {
@@ -55,28 +52,13 @@ public class Tweet {
 		this.userName = userName;
 	}
 	
-	public XContentBuilder tweetJson() {
-        XContentBuilder jsonDoc = null;
-        try {
-            jsonDoc = jsonBuilder()
-                    .startObject()
-                    .field("genre", this.text)
-                    .field("artist", this.date)
-                    .field("name", this.userName)
-                    .endObject();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        return jsonDoc;
-    }
-
-	
-	public Map<String, Object> json() {
+	public String toString() {
 		Map<String, Object> json = new HashMap<String, Object>();
 		json.put("name", this.userName);
 		json.put("date", this.date);
 		json.put("text", this.text);
 		json.put("id", this.id);
-        return json;
+		json.put("retweet_count", this.retweetCount);
+        return json.toString();
     }
 }

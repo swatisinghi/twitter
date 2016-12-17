@@ -1,6 +1,6 @@
 package com.twitter.app;
 
-import com.twitter.manager.Consumer;
+import com.twitter.workers.Consumer;
 
 public class App 
 {
