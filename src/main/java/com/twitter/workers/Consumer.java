@@ -3,9 +3,12 @@ package com.twitter.workers;
 
 import java.util.Date;
 import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
 
 import org.apache.log4j.Logger;
 
+import com.sun.org.apache.bcel.internal.generic.GETSTATIC;
 import com.twitter.manager.ConsumerOffsetManager;
 import com.twitter.manager.FileBasedQueue;
 import com.twitter.manager.OffsetManager;
@@ -14,19 +17,15 @@ import com.twitter.model.Tweet;
 import com.twitter.utils.TwitterUtils;
 
 import twitter4j.Paging;
+import twitter4j.RateLimitStatus;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
 
-/**
- *  We are processing a maximum 1000 tweets, because there are not too many tweets in a month
- *  
- */
 public class Consumer {
 	
 	private final static Logger LOGGER = Logger.getLogger(Consumer.class);
-	private static final int MAX_TWEETS = 1000;
 	private TwitterQueue<String> queue;
 	private OffsetManager mgr;
 	Twitter twitter = null;
@@ -51,60 +50,78 @@ public class Consumer {
 		return mgr.getOffset(user) == null ? Long.MAX_VALUE : Long.valueOf(mgr.getOffset(user)); 
 	}
 	
-	/**
-	 * Using redis to store the count of tweets processed for a given user.
-	 * In case the application goes down and we restart it the counts will be read from redis
-	 */
-	private int getCount(String user) {
-		return mgr.getOffset(user) == null ? 0 : Integer.valueOf(mgr.getOffset(user)); 
-	}
-	
 	private void gatherTweets(String user) throws TwitterException {
 		Date startDate = TwitterUtils.getStartDate();
 		Date endDate = TwitterUtils.getEndDate();
 		
 		List<Status> statuses;
 		Paging p = new Paging();
-		long lastID = getOffest(user);
-		String userTweetCountStr = user.concat("_count");
-		int count = getCount(userTweetCountStr);
+		long lastTweetId = getOffest(user);
 		
-		while (count < MAX_TWEETS) {
+		while (true) {
 			statuses = twitter.getUserTimeline(user, p);
 			
 			LOGGER.info("User: " + user + "; Gathered " + statuses.size() + " tweets");
-			System.out.println("Count ======== " + count);
-	    	//Updating the count in redis
-	    	count += statuses.size();
-			mgr.setOffset(userTweetCountStr, String.valueOf(count));
-			
+
+			//No more tweets left to process from this user
+			if (statuses.size() == 0) {
+				return;
+			}
+
 			for (Status status: statuses) {
 				/**
 				 * Since twitter API gives data ordered by date in descending order,
-				 * we skip processing as soon as we receive a tweet older than the start date 
+				 * we skip processing this user as soon as we receive a tweet older than the start date 
 				 */
-		    	if (status.getCreatedAt().before(startDate))
+		    	if (status.getCreatedAt().before(startDate)) {
+		    		LOGGER.info("User: " + user + "No more tweets in the desired period left to process");
 		    		return;
+		    	}
 		    	
-		    	
-				
-		        if (status.getId() < lastID) 
-		        	lastID = status.getId();
+		        //If the tweet returned is more recent that what is already processed, we ignore it
+		    	//[mostly a re-run where the user is already processes]
+		        if (status.getId() > lastTweetId) 
+		        	return;
+		        
+		        //Saving the next offset to be processed in redis
+	        	long nextTweetId = status.getId() - 1;
+		        LOGGER.debug("User: " + user + "; offset: " + nextTweetId);
+			    mgr.setOffset(user, String.valueOf(nextTweetId));  
+				p.setMaxId(nextTweetId);
+	        
+		        //Queueing tweets
 		        if (status.getCreatedAt().after(startDate) && status.getCreatedAt().before(endDate)) {
 			        Tweet tweet = new Tweet(status.getId(), status.getText(), status.getCreatedAt(), status.getUser().getScreenName(), status.getRetweetCount());
 			        LOGGER.info(tweet.toString());
 			        queue.enQueue(tweet.toString());
 		        }
-		        
-		        LOGGER.debug("User: " + user + "; offset: " + (lastID - 1));
-		        //Updating the next offset in redis
-			    mgr.setOffset(user, String.valueOf(lastID - 1));  
-				p.setMaxId(lastID - 1);
-		    }
-			
-		}
+	        }
+	    }
 	}
 	
+	/**
+	 * Sleeping for secondsUntilReset in case twitter rate limits the app
+	 */
+	public boolean rateLimited() {
+		int sleep = 10000;
+		try {
+			Map<String, RateLimitStatus> rateLimitStatusMap = twitter.getRateLimitStatus();
+			RateLimitStatus rateLimitStatus = rateLimitStatusMap.get("/statuses/user_timeline");
+			System.out.println("========== " + rateLimitStatus + " ===== " + rateLimitStatus.getRemaining() + " ===== " + rateLimitStatus.getResetTimeInSeconds() + "===== " + rateLimitStatus.getSecondsUntilReset());
+			if (rateLimitStatus.getRemaining() == 0) {
+				sleep = rateLimitStatus.getSecondsUntilReset() * 1000;
+			} 
+			LOGGER.info("Rate limited, sleeping for " + sleep + " milliseconds");
+			Thread.sleep(sleep);
+			return true;
+		} catch (TwitterException e) {
+			LOGGER.error("Exception occurred when sleeping due to rate limit: " + e.getMessage());
+			return false;
+		} catch (InterruptedException e) {
+			LOGGER.error("Exception occurred when sleeping due to rate limit: " + e.getMessage());
+			return false;
+		}
+	}
 	public void consume() {
 		LOGGER.info("========= Reading tweets ==========");
 		String[] usersToTrack = TwitterUtils.getUsersToTrack();
@@ -114,9 +131,11 @@ public class Consumer {
 				gatherTweets(user);
 			}	
 		} catch (TwitterException e) {
-			e.printStackTrace();
-            LOGGER.error("Failed to search tweets: " + e.getMessage());
-            System.exit(-1);
+			LOGGER.error("Failed to search tweets: " + e.getMessage());
+			if (!rateLimited()) {
+				System.exit(-1);
+			} 
+			consume();
 		} finally {
 			queue.close();
 		}
