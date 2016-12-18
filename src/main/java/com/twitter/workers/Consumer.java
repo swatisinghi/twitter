@@ -23,6 +23,10 @@ import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
 
+/**
+ * @author swati
+ * Worker to consume tweets.
+ */
 public class Consumer {
 	
 	private final static Logger LOGGER = Logger.getLogger(Consumer.class);
@@ -107,7 +111,6 @@ public class Consumer {
 		try {
 			Map<String, RateLimitStatus> rateLimitStatusMap = twitter.getRateLimitStatus();
 			RateLimitStatus rateLimitStatus = rateLimitStatusMap.get("/statuses/user_timeline");
-			System.out.println("========== " + rateLimitStatus + " ===== " + rateLimitStatus.getRemaining() + " ===== " + rateLimitStatus.getResetTimeInSeconds() + "===== " + rateLimitStatus.getSecondsUntilReset());
 			if (rateLimitStatus.getRemaining() == 0) {
 				sleep = rateLimitStatus.getSecondsUntilReset() * 1000;
 			} 

@@ -5,6 +5,10 @@ import org.apache.log4j.Logger;
 import com.twitter.manager.FileBasedQueue;
 import com.twitter.manager.TwitterQueue;
 
+/**
+ * @author swati
+ * Worker to index tweets.
+ */
 public class Indexer {
 	
 	private final static Logger LOGGER = Logger.getLogger(Consumer.class);
