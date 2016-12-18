@@ -1,0 +1,908 @@
+2016-12-18 20:39:38 INFO  App:17 -  ========== Starting ==========
+2016-12-18 20:39:39 INFO  Consumer:107 - ========= Reading tweets ==========
+2016-12-18 20:39:41 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:39:42 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:39:42 INFO  Consumer:93 - {id=771394007196798976, text=RT @WhiteHouse: "There's no conflict between a healthy economy and a healthy planet." —@POTUS https://t.co/kLOKgyiEvf https://t.co/GL2z2FHN…, name=BarackObama, retweet_count=957, date=Thu Sep 01 22:37:17 IST 2016}
+2016-12-18 20:39:42 INFO  Consumer:93 - {id=771377146820300800, text=Stay in the loop with important facts, brought to you weekly. Join @OFA's Truth Team: https://t.co/YNdzkLi9cb, name=BarackObama, retweet_count=342, date=Thu Sep 01 21:30:17 IST 2016}
+2016-12-18 20:39:42 INFO  Consumer:93 - {id=771070737624866816, text=Senate leaders need to hear you expect a vote on Judge Garland when recess ends—say you'll let them know: https://t.co/ETmcpsRRY6 #DoYourJob, name=BarackObama, retweet_count=776, date=Thu Sep 01 01:12:44 IST 2016}
+2016-12-18 20:39:42 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:39:43 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773973035221028865, text=RT @TwitterFashion: The best accessory for #NYFW? Tweets! See what's happening in fashion, from the shows to the streets, all week long. ht…, name=twitter, retweet_count=168, date=Fri Sep 09 01:25:25 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773955363188072448, text=The #Paralympics are underway — good luck to all the #Rio2016 athletes! https://t.co/ioQeZte9OJ https://t.co/w9B0VQ9Qia, name=twitter, retweet_count=313, date=Fri Sep 09 00:15:12 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773920594299498501, text=@yousuf_09 There is, Yousuf! Here's how to take control of read receipts 👇
+https://t.co/LWCsFWE768, name=twitter, retweet_count=56, date=Thu Sep 08 21:57:03 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773916770792910848, text=RT @periscopeco: See who's watching live! Now you can see when people you follow join your broadcast 👋 https://t.co/Qf0zhbwYNt, name=twitter, retweet_count=262, date=Thu Sep 08 21:41:51 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773913816740409345, text=New! Direct Messages are more dynamic than ever with read receipts, typing indicators, and web link previews. https://t.co/VEU92V5Gqj, name=twitter, retweet_count=8806, date=Thu Sep 08 21:30:07 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773659809660805120, text=Welcome to week 1, football fans! Make your Tweets a touchdown with new featured #Stickers all season long. https://t.co/z9XLjhgtd0, name=twitter, retweet_count=264, date=Thu Sep 08 04:40:47 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773644645129596928, text=From games to new devices, here's what happened at today's #AppleEvent: https://t.co/M8N02F4eHB https://t.co/HU31raqqIN, name=twitter, retweet_count=423, date=Thu Sep 08 03:40:31 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773633237134356481, text=@Zlatimeyer You had us at #hashtag 🙌, name=twitter, retweet_count=14, date=Thu Sep 08 02:55:11 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773552112714121216, text=It all begins with a Tweet! Learn how you can start or join any conversation on Twitter. #TwitterTips https://t.co/yCccvPyqRI, name=twitter, retweet_count=1296, date=Wed Sep 07 21:32:50 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773232947621003264, text=This #TravelTuesday, see why Mark Twain once wrote, "heaven was copied after Mauritius."
+🌴 https://t.co/2HJS8xhBqe https://t.co/gjHtHikxfK, name=twitter, retweet_count=233, date=Wed Sep 07 00:24:35 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=773229650096947200, text=@Nah_shelly Happy birthday, Nashelly! Here's another 🎈, name=twitter, retweet_count=15, date=Wed Sep 07 00:11:29 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=772130816591667201, text=We 👀 you, Jupiter. #JunoMission 
+https://t.co/YphJMZhTo0, name=twitter, retweet_count=1006, date=Sat Sep 03 23:25:06 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771843919902420992, text=RT @gov: Tracking #Hermine this Labor Day weekend? Follow this list for live updates: https://t.co/kjRnzsiyO3 #FollowFriday https://t.co/DI…, name=twitter, retweet_count=126, date=Sat Sep 03 04:25:05 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771828918273777664, text=Summer's almost over. What's your #FridayFeeling?, name=twitter, retweet_count=532, date=Sat Sep 03 03:25:28 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771764801152266241, text=Us too, @rihanna! 😂 https://t.co/YAhFZ00jdU, name=twitter, retweet_count=495, date=Fri Sep 02 23:10:41 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771535667193008130, text=RT @gov: This week 8 government officials answered your #AtoZika questions from Twitter. See how the conversation unfolded. https://t.co/In…, name=twitter, retweet_count=248, date=Fri Sep 02 08:00:12 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771459175293464576, text=RT @TwitterAlas: We're proud to launch our new Twitter emoji to celebrate #HispanicHeritageMonth! https://t.co/JozS0U4iOt, name=twitter, retweet_count=277, date=Fri Sep 02 02:56:15 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771398168525144064, text=@AN_TY_ We're glad you enjoyed your birthday surprise!🎈, name=twitter, retweet_count=17, date=Thu Sep 01 22:53:49 IST 2016}
+2016-12-18 20:39:43 INFO  Consumer:93 - {id=771057930711896064, text=RT @BuzzFeed: Watch @ShawnMendes let @KeithHabs and his Twitter fans make some weird decisions for him during the day https://t.co/D8d6hKiL…, name=twitter, retweet_count=16694, date=Thu Sep 01 00:21:50 IST 2016}
+2016-12-18 20:41:42 INFO  App:17 -  ========== Starting ==========
+2016-12-18 20:41:43 INFO  Consumer:107 - ========= Reading tweets ==========
+2016-12-18 20:41:47 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:48 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:48 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:50 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:50 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:51 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781913425496662016, text=We need a fully functioning Supreme Court. Speak up if you agree it's time for a hearing and a vote: https://t.co/d6nmum1Ut7 #DoYourJob, name=BarackObama, retweet_count=939, date=Fri Sep 30 23:17:42 IST 2016}
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781885668016332800, text=There has never been a more qualified nominee, Senate leaders. He deserves a fair hearing and a vote. #DoYourJob https://t.co/qtzcY3iwyl, name=BarackObama, retweet_count=3172, date=Fri Sep 30 21:27:24 IST 2016}
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781613479589470208, text=It's the Senate's job to fairly consider Supreme Court nominees. Their refusal to do so is unacceptable: https://t.co/s8FdCa0tq6 #DoYourJob, name=BarackObama, retweet_count=1034, date=Fri Sep 30 03:25:49 IST 2016}
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781579567358095360, text="Everybody gets sick." Check out what President Obama is doing to extend access to paid sick leave: https://t.co/gOAc2HAkQg #LeadOnLeave, name=BarackObama, retweet_count=630, date=Fri Sep 30 01:11:04 IST 2016}
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781553914092990464, text=RT @ErnestMoniz: THIS is what a #CleanEnergy revolution looks like. New report out today → https://t.co/o13p5fPNDg #ActOnClimate https://t.…, name=BarackObama, retweet_count=291, date=Thu Sep 29 23:29:08 IST 2016}
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781532250143719424, text=Never underestimate the strength and resilience of the American economy. https://t.co/OFTN2FlRtq, name=BarackObama, retweet_count=1303, date=Thu Sep 29 22:03:03 IST 2016}
+2016-12-18 20:41:51 INFO  Consumer:93 - {id=781512097167384576, text=RT @Slate: President Obama answers Slate’s questions about his administration’s new rule extending paid sick leave: https://t.co/8AdEx431QN…, name=BarackObama, retweet_count=232, date=Thu Sep 29 20:42:58 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=781189166126264321, text=The @OFA Truth Team makes it easy to stay informed. Join today: https://t.co/Q0axQYyJY1, name=BarackObama, retweet_count=318, date=Wed Sep 28 23:19:45 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=781150531943211010, text=This is no accident—we're making a comeback because together, we've fought hard to support American families. https://t.co/LTk7SiTexP, name=BarackObama, retweet_count=3151, date=Wed Sep 28 20:46:14 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780875664953978881, text=We're better off than we were eight years ago. https://t.co/OwrTM3V78t, name=BarackObama, retweet_count=2590, date=Wed Sep 28 02:34:01 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780855089946726400, text=Household incomes are up, and the poverty rate is down across all demographics. https://t.co/cEIdPJuuvR, name=BarackObama, retweet_count=1028, date=Wed Sep 28 01:12:15 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780813534376538112, text=As long as Senate leaders keep refusing to do their jobs, @OFA supporters will continue speaking out against their… https://t.co/DkmDKpMhOw, name=BarackObama, retweet_count=2836, date=Tue Sep 27 22:27:08 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780791269060595712, text=Senate leaders have blocked Judge Garland's hearing for over six months now. Keep pushing: https://t.co/AGrUjJTnST #DoYourJob, name=BarackObama, retweet_count=822, date=Tue Sep 27 20:58:39 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780511904485605376, text=Important, tough conversations require solid facts. Get them from the @OFA Truth Team: https://t.co/5YH9zVeayn https://t.co/dD1EPgaA9W, name=BarackObama, retweet_count=951, date=Tue Sep 27 02:28:33 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780481839177748480, text=These are high praises from the American Bar Association—and yet, Senate leaders refuse to even consider Judge Garl… https://t.co/ryPFLZDAhY, name=BarackObama, retweet_count=2350, date=Tue Sep 27 00:29:05 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780458668122791936, text=Senate leaders' unprecedented obstruction of the Supreme Court nomination must end. Your voice matters: https://t.co/yhy8al1FK7 #DoYourJob, name=BarackObama, retweet_count=730, date=Mon Sep 26 22:57:01 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=780435649971167232, text=The American people are waiting for Senate leaders to do their jobs. https://t.co/LNqAQpxMle, name=BarackObama, retweet_count=1427, date=Mon Sep 26 21:25:33 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779428314012200960, text=Senate leaders have blocked Judge Garland's hearing for over six months now. Keep pushing: https://t.co/peV6aCYswa #DoYourJob, name=BarackObama, retweet_count=770, date=Sat Sep 24 02:42:45 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779411464830320640, text=Senate leaders need to work for the good of the American people, not seek out political points. https://t.co/Tdx3xk6gYi, name=BarackObama, retweet_count=2120, date=Sat Sep 24 01:35:48 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779395875239895042, text=Watch President Obama and @CEAChair Jason Furman discuss the positive gains the American economy has made. https://t.co/J28Crn3WAP, name=BarackObama, retweet_count=430, date=Sat Sep 24 00:33:51 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779380553334140932, text=Here are 16 broken records we shouldn't be proud of. https://t.co/x98dGgEloW, name=BarackObama, retweet_count=4385, date=Fri Sep 23 23:32:58 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779363981177843712, text=Stay informed. Stay engaged. Speak up. Join the @OFA Truth Team: https://t.co/GVTL4HrTXw, name=BarackObama, retweet_count=396, date=Fri Sep 23 22:27:07 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779348972670517248, text=Another record broken: 16 months in a row of undeniable, record-breaking heat.
+https://t.co/qMAH7nFf5I #ActOnClimate, name=BarackObama, retweet_count=1426, date=Fri Sep 23 21:27:29 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779082523963863041, text=Happy #FirstDayofFall. https://t.co/ix02MNuOud, name=BarackObama, retweet_count=14290, date=Fri Sep 23 03:48:43 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779068216018468864, text=We can't sit idly by. Climate change is likely to threaten our national security—we must act now.… https://t.co/6QQmpf27W0, name=BarackObama, retweet_count=1526, date=Fri Sep 23 02:51:51 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779032515302400000, text=Judge Garland is highly qualified for the bench—even some Senate leaders who are now blocking his hearing have agre… https://t.co/D5ScOCikVl, name=BarackObama, retweet_count=2533, date=Fri Sep 23 00:30:00 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=779010876074438657, text=Senate leaders' blind obstruction of Judge Garland's nomination sets a dangerous precedent. We can't stand idly by. https://t.co/k76I6DCDRI, name=BarackObama, retweet_count=746, date=Thu Sep 22 23:04:00 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778986879249100800, text=Enough of the shameless partisanship, Senators. #DoYourJob and fill the Supreme Court vacancy. https://t.co/vIQY0bivo4, name=BarackObama, retweet_count=2321, date=Thu Sep 22 21:28:39 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778684733093912576, text=Help keep the pressure on Senate leaders to give Judge Garland a fair hearing before their next recess. https://t.co/lkLz4yidaw #DoYourJob, name=BarackObama, retweet_count=753, date=Thu Sep 22 01:28:02 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778653339751899136, text=The American Bar Association gave Judge Garland its highest possible rating. He deserves a hearing and a vote.… https://t.co/FUVmGKdZgB, name=BarackObama, retweet_count=3171, date=Wed Sep 21 23:23:17 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778633396998156288, text="Their right to inherit a healthy planet is a sacred responsibility." —President Obama #ActOnClimate https://t.co/MYumi6xiIW, name=BarackObama, retweet_count=1317, date=Wed Sep 21 22:04:02 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778609212599316480, text=Communities are already experiencing the effects of climate change—we can't afford not to act. Take a look:… https://t.co/sEjVzKqhsw, name=BarackObama, retweet_count=1758, date=Wed Sep 21 20:27:56 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778315562623438848, text=As the #UNGA meets, take a look at the progress we've made thanks to American leadership in the world. https://t.co/b4T0zGccLH, name=BarackObama, retweet_count=838, date=Wed Sep 21 01:01:05 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=778239848566194176, text=LIVE: President Obama is speaking at the 71st Session of the United Nations General Assembly. https://t.co/J8cm9QquER #UNGA, name=BarackObama, retweet_count=639, date=Tue Sep 20 20:00:13 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=777891139848253441, text=LIVE: President Obama is delivering a statement in New York. https://t.co/MJUr8C84Wd, name=BarackObama, retweet_count=666, date=Mon Sep 19 20:54:34 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776909671055568896, text=President Obama commemorates #HispanicHeritageMonth in an address to @CHCI. https://t.co/oTVX7zOyFD, name=BarackObama, retweet_count=1271, date=Sat Sep 17 03:54:34 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776894274055000064, text=Senate leaders are putting politics above their basic responsibility to hold a hearing for Judge Garland. #DoYourJob https://t.co/N7vH2ncwmb, name=BarackObama, retweet_count=3516, date=Sat Sep 17 02:53:23 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776872058089267201, text=Six months is long enough, senators. It's time to #DoYourJob and give Judge Garland a hearing. https://t.co/A2Yedmhuw6, name=BarackObama, retweet_count=942, date=Sat Sep 17 01:25:06 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776856997195022336, text=RT @OFA: Friendly reminder for Senate leaders on #ConstitutionDay2016: https://t.co/my5zUWxb6j, name=BarackObama, retweet_count=354, date=Sat Sep 17 00:25:16 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776834111566516224, text=The Supreme Court should remain above partisan politics, Senator. https://t.co/DlWud7Rh3K #DoYourJob https://t.co/Wjd96qn9Hf, name=BarackObama, retweet_count=1207, date=Fri Sep 16 22:54:19 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776811448651558912, text=Progress starts with a conversation. Make sure you have the facts to get yours started: https://t.co/MxWdiJxz4o https://t.co/Q3iP0Jwg1t, name=BarackObama, retweet_count=950, date=Fri Sep 16 21:24:16 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776532109498339328, text=When we protect our lands and waters, it helps us protect our climate for future generations. #ActOnClimate https://t.co/8tygZI0TDR, name=BarackObama, retweet_count=4587, date=Fri Sep 16 02:54:16 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776493584572780545, text="There is no 'election year' exception in Article II." Sen. Leahy calls on senators to give Judge Garland a hearing: https://t.co/VjxClMdqUg, name=BarackObama, retweet_count=1312, date=Fri Sep 16 00:21:11 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776460530584133633, text=President Obama just made history by protecting nearly 5,000 square miles off the New England coast. https://t.co/i8MAFYU60k #OurOcean, name=BarackObama, retweet_count=2583, date=Thu Sep 15 22:09:51 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776439380281925632, text=LIVE: President Obama is speaking at the 2016 Our Ocean Conference. https://t.co/ALK46jhUpw #OurOcean, name=BarackObama, retweet_count=392, date=Thu Sep 15 20:45:48 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776426790109650944, text=RT @WhiteHouse: BREAKING: @POTUS will designate the first-ever marine monument in the Atlantic Ocean:
+https://t.co/t33G5z2QpK https://t.co/…, name=BarackObama, retweet_count=1058, date=Thu Sep 15 19:55:46 IST 2016}
+2016-12-18 20:41:52 INFO  Consumer:93 - {id=776160016483033088, text=We need nine justices for a fully functioning Supreme Court—and editorial boards across the country agree. https://t.co/WD42qmgXpO, name=BarackObama, retweet_count=1502, date=Thu Sep 15 02:15:42 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=776134671415451648, text=RT @cspan: .@RepJohnLewis on #GunViolence: "The time for silence is over." https://t.co/zUUX02jNnN, name=BarackObama, retweet_count=702, date=Thu Sep 15 00:35:00 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=776115966161793025, text=We can't let Senate leaders ignore their constitutional responsibilities. https://t.co/ExY5wZcWi6 #DoYourJob https://t.co/IwO7CAoVm2, name=BarackObama, retweet_count=1494, date=Wed Sep 14 23:20:40 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=776098253800484866, text=Stay informed. Stay engaged. Speak up. Join the @OFA Truth Team: https://t.co/b0eae4PXDX, name=BarackObama, retweet_count=353, date=Wed Sep 14 22:10:17 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=776079054512369668, text=The U.S. is on track to hit two million solar installations within the next two years. Momentum is building: https://t.co/dTb4M3J4MY, name=BarackObama, retweet_count=1745, date=Wed Sep 14 20:54:00 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775804899049078784, text=Time is almost up for Senate leaders to do the right thing and fill the #SCOTUS vacancy. https://t.co/rPbzUkZAUE #DoYourJob, name=BarackObama, retweet_count=592, date=Wed Sep 14 02:44:36 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775788508841517057, text=Median household income: ⬆
+Poverty rate: ⬇
+Uninsured rate: ⬇
+
+Middle-class economics works. https://t.co/ThPXBSux09, name=BarackObama, retweet_count=3841, date=Wed Sep 14 01:39:28 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775773838403436544, text=In 2015, we saw the fastest household income growth on record and the largest drop in the poverty rate since 1968. https://t.co/Kyw1vuhont, name=BarackObama, retweet_count=1487, date=Wed Sep 14 00:41:10 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775729726107201536, text=RT @WhiteHouse: Fastest household income growth on record ✓ 
+ 
+Largest drop in poverty rate since 1968 ✓ 
+
+https://t.co/qK505KUeuP https://…, name=BarackObama, retweet_count=1055, date=Tue Sep 13 21:45:53 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775710721027952640, text=The Supreme Court must remain above partisanship. Senate leaders: The time to fill the vacant seat is now. https://t.co/7mmbuXjsPO, name=BarackObama, retweet_count=3488, date=Tue Sep 13 20:30:22 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775429955253481473, text=ICYMI: This is a really big deal. https://t.co/raNeUV5fRd, name=BarackObama, retweet_count=2601, date=Tue Sep 13 01:54:42 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775407521167126528, text=Vice President Biden speaks on the "dangerous precedent" Senate leaders are setting by refusing to do their jobs. https://t.co/W1A7Oyb4gB, name=BarackObama, retweet_count=1596, date=Tue Sep 13 00:25:34 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775387720285683712, text=These are records we can't keep breaking. We must work together to #ActOnClimate. https://t.co/sTxNR10sjK, name=BarackObama, retweet_count=3094, date=Mon Sep 12 23:06:53 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=775350531812265984, text=Meaningful action on climate change can't wait. President Obama explains why in this @nytimes interview. https://t.co/zbaDcpztIW, name=BarackObama, retweet_count=1284, date=Mon Sep 12 20:39:06 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=774353170159968259, text=We need to keep up efforts to fight climate change at every level—locally, nationally, globally. #ActOnClimate https://t.co/L10qdkgPDg, name=BarackObama, retweet_count=3551, date=Sat Sep 10 02:35:57 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=774340573310353408, text=RT @FactsOnClimate: BREAKING: A new strategy to harness the power of wind means more jobs, less pollution: https://t.co/s0I0CmalFL https://…, name=BarackObama, retweet_count=725, date=Sat Sep 10 01:45:53 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=774325506065985536, text=Senate leaders are back in session. Keep the pressure high—call out their obstructionism. https://t.co/eThTUbIMH0 #DoYourJob, name=BarackObama, retweet_count=636, date=Sat Sep 10 00:46:01 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=774303257023963136, text=There's no need to overcomplicate the process. #DoYourJob https://t.co/QgaNgKNBzJ, name=BarackObama, retweet_count=1315, date=Fri Sep 09 23:17:36 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=774263324032790528, text=We must take bold steps now—climate change is already impacting millions of people. https://t.co/ZWBgt0XEWt #ActOnClimate, name=BarackObama, retweet_count=1356, date=Fri Sep 09 20:38:56 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773969076171309056, text=Congress is back, and they have important work to do before their next recess. Make sure you say where you stand: https://t.co/Ll1Croa3Ui, name=BarackObama, retweet_count=904, date=Fri Sep 09 01:09:42 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773952874833321984, text=RT @VPLive: "Every nominee, including Kennedy in an election year—got an up or down vote" —@VP on serving as Senate Judiciary Chairman or R…, name=BarackObama, retweet_count=312, date=Fri Sep 09 00:05:19 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773938870421368832, text=Stay in the loop with important facts. Join @OFA's Truth Team: https://t.co/2KkNrPgHPL https://t.co/FDOocrpQvU, name=BarackObama, retweet_count=476, date=Thu Sep 08 23:09:40 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773638787549188096, text=Rising sea levels are already flooding homes and roads along America's coasts. The time to #ActOnClimate is now. https://t.co/OplSsyTHEX, name=BarackObama, retweet_count=1835, date=Thu Sep 08 03:17:15 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773612008889421824, text=Fewer Americans are uninsured than ever before, thanks to #Obamacare. https://t.co/tFbGtiPzWL, name=BarackObama, retweet_count=837, date=Thu Sep 08 01:30:50 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773578682350702592, text=Congress is back from recess. Help put the pressure on Senate leaders to give Judge Garland a hearing: https://t.co/F4eATpElMT #DoYourJob, name=BarackObama, retweet_count=798, date=Wed Sep 07 23:18:24 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773549731901349888, text=The process is clear. The Supreme Court and American people are waiting for Senate leaders to get to work. https://t.co/1YzeZLIcAT, name=BarackObama, retweet_count=3178, date=Wed Sep 07 21:23:22 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773279043726618624, text=Senate leaders have 32 days before their next recess to give Judge Garland a hearing and a vote. Call them out now: https://t.co/IV1AGOEDag, name=BarackObama, retweet_count=1024, date=Wed Sep 07 03:27:45 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773254286855712769, text=The Paris Climate Agreement is a big deal in the fight against climate change—and now, a big step closer to reality. https://t.co/5vd6n0BFgG, name=BarackObama, retweet_count=1182, date=Wed Sep 07 01:49:23 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773233683608199168, text=The United States is leading the way in the fight to #ActOnClimate. https://t.co/vkUMjg6XKc, name=BarackObama, retweet_count=572, date=Wed Sep 07 00:27:30 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773203627125055488, text=Conservation not only protects diverse lands and species, it's also an important part of battling climate change. https://t.co/gjvhHNPFKL, name=BarackObama, retweet_count=1230, date=Tue Sep 06 22:28:04 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=773174849346768896, text="When we protect our lands, it helps us protect the climate for the future." —President Obama #ActOnClimate https://t.co/qdoCgYPQom, name=BarackObama, retweet_count=1290, date=Tue Sep 06 20:33:43 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=772827439126966272, text=President Obama has a message for America's workers today—check it out: https://t.co/KlPj1YGeQ4 #LaborDay https://t.co/qzbHAfRXNs, name=BarackObama, retweet_count=861, date=Mon Sep 05 21:33:14 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=772117278464679937, text=In the weekly address, President Obama commemorates the labor movement that helped build this country. https://t.co/JsZvcpTyee, name=BarackObama, retweet_count=1100, date=Sat Sep 03 22:31:19 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=772103576697049089, text=RT @WhiteHouse: It's official: The U.S. and China have entered into the #ParisAgreement: https://t.co/RQIMfGp7rg https://t.co/7IPK6WAeZD, name=BarackObama, retweet_count=2898, date=Sat Sep 03 21:36:52 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771836881495584768, text=Recess is almost over, and editorial boards across the country are calling for Senate leaders to do their jobs. https://t.co/Pr78WaT0V2, name=BarackObama, retweet_count=2539, date=Sat Sep 03 03:57:07 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771799796344512512, text=When Americans stand together, there's no challenge too great to solve—not even climate change. #ActOnClimate today: https://t.co/5mqlv3ZXas, name=BarackObama, retweet_count=694, date=Sat Sep 03 01:29:45 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771776767581360128, text=Unemployment: ⬇
+Deficits: ⬇
+Uninsured rate: ⬇
+Jobs: +15.1 million https://t.co/mWcAgfM8zn, name=BarackObama, retweet_count=2704, date=Fri Sep 02 23:58:14 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771755042391097345, text=It's been a long road, but we're far better off than we were eight years ago. https://t.co/o8UdtCezYE, name=BarackObama, retweet_count=2443, date=Fri Sep 02 22:31:55 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771727047710412800, text=The economy added 151,000 jobs in August—extending the longest streak of total job growth on record., name=BarackObama, retweet_count=2392, date=Fri Sep 02 20:40:40 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771454141801439233, text=Senate leaders return from recess next week. They need to get to work on a vote for Judge Garland—say so. https://t.co/pdRYkz7kFV #DoYourJob, name=BarackObama, retweet_count=849, date=Fri Sep 02 02:36:14 IST 2016}
+2016-12-18 20:41:53 INFO  Consumer:93 - {id=771430763069788160, text=Recess is almost over, and editorial boards across the country are calling for Senate leaders to do their jobs. https://t.co/ScbkMVcovu, name=BarackObama, retweet_count=2712, date=Fri Sep 02 01:03:21 IST 2016}
+2016-12-18 20:41:54 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:41:54 INFO  Consumer:93 - {id=771394007196798976, text=RT @WhiteHouse: "There's no conflict between a healthy economy and a healthy planet." —@POTUS https://t.co/kLOKgyiEvf https://t.co/GL2z2FHN…, name=BarackObama, retweet_count=957, date=Thu Sep 01 22:37:17 IST 2016}
+2016-12-18 20:41:54 INFO  Consumer:93 - {id=771377146820300800, text=Stay in the loop with important facts, brought to you weekly. Join @OFA's Truth Team: https://t.co/YNdzkLi9cb, name=BarackObama, retweet_count=342, date=Thu Sep 01 21:30:17 IST 2016}
+2016-12-18 20:41:54 INFO  Consumer:93 - {id=771070737624866816, text=Senate leaders need to hear you expect a vote on Judge Garland when recess ends—say you'll let them know: https://t.co/ETmcpsRRY6 #DoYourJob, name=BarackObama, retweet_count=776, date=Thu Sep 01 01:12:44 IST 2016}
+2016-12-18 20:41:54 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:41:55 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:41:55 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:41:56 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:41:57 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:41:58 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:41:59 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:00 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:01 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:02 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:03 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:04 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:05 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:05 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:06 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:07 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:08 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:09 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:09 INFO  Consumer:93 - {id=781908744485548033, text=We've updated our Terms & Privacy Policy. Check out what's new:
+✔️https://t.co/Z9WvxIi0Yt
+✔️https://t.co/uVZBuWspC3
+https://t.co/tSxtVPmlLk, name=twitter, retweet_count=302, date=Fri Sep 30 22:59:06 IST 2016}
+2016-12-18 20:42:09 INFO  Consumer:93 - {id=781708851187949568, text=Next Thursday watch @AZCardinals vs @49ers LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCivVgPB on game day.
+https://t.co/eCsgy1PHoE, name=twitter, retweet_count=259, date=Fri Sep 30 09:44:48 IST 2016}
+2016-12-18 20:42:09 INFO  Consumer:93 - {id=781678684608536576, text=Reading through all of these #HowTwitterHasChangedMyLife Tweets like https://t.co/0Vp9oxkZBv, name=twitter, retweet_count=449, date=Fri Sep 30 07:44:55 IST 2016}
+2016-12-18 20:42:09 INFO  Consumer:93 - {id=781560332938387457, text=No matter how you like your cup of joe, #NationalCoffeeDay is worth celebrating!
+☕️ https://t.co/4PRGl76ypO https://t.co/oja341aIAo, name=twitter, retweet_count=579, date=Thu Sep 29 23:54:38 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781541433966637056, text=#TNF will be back streaming LIVE on Twitter next week: @AZCardinals vs @49ers. Tonight, catch the @MiamiDolphins vs… https://t.co/pFBQCXGeGn, name=twitter, retweet_count=268, date=Thu Sep 29 22:39:32 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781279748542586886, text=Tonight: welcome back to the #Empire. Tweet with the cast during the show this #EmpireWednesday to unlock fresh emo… https://t.co/uSqWEvjScy, name=twitter, retweet_count=457, date=Thu Sep 29 05:19:42 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781253380593287168, text=RT @TwitterMovies: Wands at the ready, the new trailer for #FantasticBeasts is here. https://t.co/JG05i48bDA, name=twitter, retweet_count=82, date=Thu Sep 29 03:34:55 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781231282768314369, text=Express yourself with more than just words. Get creative with polls and #Stickers. #TwitterTips https://t.co/G3IQWi3XCp, name=twitter, retweet_count=248, date=Thu Sep 29 02:07:07 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781201773889413120, text=Righteous move, @StephenAtHome 👊 https://t.co/2N5JI8IJiS, name=twitter, retweet_count=90, date=Thu Sep 29 00:09:51 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781160717378588672, text=Need some tips for making a great Moment? Learn more! ⬇️
+https://t.co/uk9v6I2znW, name=twitter, retweet_count=390, date=Wed Sep 28 21:26:42 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=781160119358763008, text=For everyone who wants to make a Moment – starting today you can! Creators everywhere can now tell stories with Twe… https://t.co/ORdleOt3un, name=twitter, retweet_count=4685, date=Wed Sep 28 21:24:20 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780892377313443840, text=Take a look back at the first of the US presidential #debates between @HillaryClinton and @realDonaldTrump:… https://t.co/3FlO5Udnvy, name=twitter, retweet_count=253, date=Wed Sep 28 03:40:25 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780862250168881152, text=RT @TheNextWeb: Twitter's new feature makes it dead simple to register to vote https://t.co/zCMNDFMHQk #iregistered https://t.co/lnt0HWQMzS, name=twitter, retweet_count=102, date=Wed Sep 28 01:40:42 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780811794591866880, text=To get your voter registration information, tap below to send your five digit zip code in a private message to @gov. https://t.co/VpyIkmbfxH, name=twitter, retweet_count=416, date=Tue Sep 27 22:20:13 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780809477754789888, text=Twitter is helping you register to vote! Send a Direct Message to @gov to get started: https://t.co/1DgGG9i71o https://t.co/shckBNcT3l, name=twitter, retweet_count=760, date=Tue Sep 27 22:11:00 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780762682504859648, text=RT @gov: It's National Voter Registration Day. Have you registered to vote? Let the world know! Tweet with #iRegistered. https://t.co/hdPe2…, name=twitter, retweet_count=501, date=Tue Sep 27 19:05:04 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780602908135923712, text=The biggest moments, Tweets, and topics on Twitter from the first of the US presidential #debates. https://t.co/9mNWW0HkkQ, name=twitter, retweet_count=195, date=Tue Sep 27 08:30:10 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780600671095566336, text=The #debates continue, LIVE on Twitter. Stay tuned for the vice presidential debate streaming LIVE on Tuesday, 10/4. https://t.co/l2fPw8j3O6, name=twitter, retweet_count=224, date=Tue Sep 27 08:21:17 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780573748663427072, text=Streaming LIVE:
+
+@HillaryClinton
+#debates  
+@realDonaldTrump
+
+Watch on Twitter NOW!
+https://t.co/l2fPw8j3O6, name=twitter, retweet_count=696, date=Tue Sep 27 06:34:18 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780557835180449792, text=RT @gov: ONE HOUR TO GO! Retweet if you're ready to watch the #debates streaming LIVE on Twitter!
+https://t.co/Amu2z9SmqF, name=twitter, retweet_count=197, date=Tue Sep 27 05:31:04 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780542562679398400, text=Streaming LIVE in two hours:
+
+@HillaryClinton
+#debates 
+@realDonaldTrump
+
+#GoLive on Twitter ⬇️
+https://t.co/l2fPw8j3O6, name=twitter, retweet_count=465, date=Tue Sep 27 04:30:23 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780445616782516224, text=RT @gov: Tonight!
+
+The first presidential debate is LIVE on Twitter. Go to https://t.co/6N9kG0RZrN or ⚡️Moments at 8:30pm ET and Tweet with…, name=twitter, retweet_count=304, date=Mon Sep 26 22:05:09 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780396679535005696, text=Tonight: the first of the US presidential #debates will be streaming LIVE on Twitter. Tap ⬇️ to watch at 8:30pm ET. https://t.co/l2fPw8j3O6, name=twitter, retweet_count=1538, date=Mon Sep 26 18:50:42 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780211445531160576, text=RT @gov: 24 hours away.
+
+Watch the US presidential #debates LIVE on Twitter! Go to ⚡️Moments or https://t.co/6N9kG19AQn. https://t.co/mMgRx…, name=twitter, retweet_count=270, date=Mon Sep 26 06:34:38 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780127417071316993, text=RT @bpolitics: The presidential #debates will be streamed LIVE on Twitter. Coverage begins Monday at 8:30pm ET. Join us! https://t.co/gF4jM…, name=twitter, retweet_count=333, date=Mon Sep 26 01:00:44 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=780055140476649472, text=Tomorrow night.
+
+The US presidential #debates LIVE on Twitter. Go to ⚡️ Moments or https://t.co/yn4Jkmxb1l to watch.
+https://t.co/l2fPw8j3O6, name=twitter, retweet_count=730, date=Sun Sep 25 20:13:32 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779771224691920896, text=#APeoplesJourney: a museum 100 years in the making, step inside today's historic opening of the @NMAAHC. https://t.co/0QVGYkSnct, name=twitter, retweet_count=832, date=Sun Sep 25 01:25:22 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779738434181017600, text=RT @chancetherapper: I spoke w @twitter last night about #MCD #MagColoringDay https://t.co/5RvvB5kt48, name=twitter, retweet_count=2181, date=Sat Sep 24 23:15:04 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779449443670032384, text=#TNF week 3 is in the 📚.
+
+Rewind to the best moments from last night's LIVE matchup between the @HoustonTexans and… https://t.co/7H5TYXlmpu, name=twitter, retweet_count=243, date=Sat Sep 24 04:06:43 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779372393655447552, text=Watch the US presidential #debates LIVE on Twitter! Go to ⚡ Moments or https://t.co/yn4Jkmxb1l on Monday, 9/26 at 8… https://t.co/FNwYD7Wp4G, name=twitter, retweet_count=609, date=Fri Sep 23 23:00:33 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779160802548867072, text=We've got a bye next week! Tune in to #TNF Thursday, October 6th and catch @AZCardinals vs @49ers LIVE on Twitter.
+https://t.co/eCsgy1y604, name=twitter, retweet_count=228, date=Fri Sep 23 08:59:46 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779139495648047104, text=The second half of #HOUvsNE is kicking off now, LIVE on Twitter.  #TNF 
+https://t.co/eCsgy1y604, name=twitter, retweet_count=138, date=Fri Sep 23 07:35:06 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779108361883176960, text=#TNF is back.
+
+Tap 👇 now to catch the @HoustonTexans take on the @Patriots LIVE on Twitter!
+https://t.co/eCsgy1y604, name=twitter, retweet_count=281, date=Fri Sep 23 05:31:23 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779082871650660353, text=RT @NFL: 🏈🏈SOOOOOOOON!🏈🏈
+@HoustonTexans. @Patriots.
+
+💻📱: https://t.co/cwnT5bPB2K 
+📺: @NFLonCBS #TNF #HOUvsNE, name=twitter, retweet_count=439, date=Fri Sep 23 03:50:05 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779062901554360320, text=@rowdELife @NFLTNF Yes! #HOUvsNE kicks off on Twitter at 8pm ET. Tap below to watch! ⬇️
+https://t.co/eCsgy1y604, name=twitter, retweet_count=16, date=Fri Sep 23 02:30:44 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779033905412177920, text=Fall is finally here! Love it or hate it, here's what people are saying about the #FirstDayofFall.
+🍂… https://t.co/E89jSEUO0q, name=twitter, retweet_count=517, date=Fri Sep 23 00:35:31 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779017477967663104, text=GAME DAY.
+
+The @HoustonTexans take on the @Patriots tonight, LIVE on Twitter! Go to ⚡️ Moments or watch 👇 at 8pm ET.
+https://t.co/eCsgy1y604, name=twitter, retweet_count=208, date=Thu Sep 22 23:30:14 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=779003037218025472, text=RT @gov: Your official hashtag for the 2016 US Presidential Debates has arrived: #debates! https://t.co/aNMLtai25b, name=twitter, retweet_count=267, date=Thu Sep 22 22:32:51 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=778985385242218496, text=TONIGHT! Watch @HoustonTexans vs @Patriots LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 at 8pm ET. https://t.co/OgzSCu50x3, name=twitter, retweet_count=265, date=Thu Sep 22 21:22:43 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=778733090130784256, text=Unleash the Lyons, #Empire is back! Tonight, we're crowning Cookie with a new emoji. Now slay! https://t.co/LCGq1RAsv0, name=twitter, retweet_count=575, date=Thu Sep 22 04:40:11 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=778659869574299648, text=@comms_kelly It's definitely one of our favorites too, Lauren! 😹, name=twitter, retweet_count=15, date=Wed Sep 21 23:49:14 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=778650086481866752, text=RT @TwitterSports: Thursday Night Football is LIVE on Twitter Thursday at 8pm ET! Retweet for a reminder to watch on game day. #HOUvsNE htt…, name=twitter, retweet_count=4349, date=Wed Sep 21 23:10:21 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=778647724547641344, text=@IainRoster Cheers, Iain! Happy Birthday!🎈, name=twitter, retweet_count=17, date=Wed Sep 21 23:00:58 IST 2016}
+2016-12-18 20:42:10 INFO  Consumer:93 - {id=778645733809332225, text=@Johnmarc Thanks, Jonathan! What's your favorite new feature?, name=twitter, retweet_count=16, date=Wed Sep 21 22:53:04 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778625809783197696, text=Get more of what you love. Follow the accounts you care about to see what's happening in their world. #TwitterTips https://t.co/oI7Qp3ZY7d, name=twitter, retweet_count=210, date=Wed Sep 21 21:33:53 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778581426123919360, text=RT @gov: All of the 2016 US presidential #debates will be streamed LIVE on Twitter through our partnership with @bpolitics https://t.co/XI0…, name=twitter, retweet_count=809, date=Wed Sep 21 18:37:31 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778397896055984128, text=@anneseon It's never too late, Rose! Happy Birthday! 🎈, name=twitter, retweet_count=20, date=Wed Sep 21 06:28:15 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778368675606704128, text=The future of gender equality is now. See how #HeForShe has been what's happening on Twitter for 2 years:… https://t.co/SnayLPvsDf, name=twitter, retweet_count=745, date=Wed Sep 21 04:32:08 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778351731532967936, text=@mohammadsohaib3 You're welcome, Muhammad! Gotta keep things comfortable. 😎, name=twitter, retweet_count=15, date=Wed Sep 21 03:24:48 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778338298175434752, text=Head to Bangkok this #TravelTuesday to visit temples, eat street food, and take in the breathtaking views.… https://t.co/hOD4WeW103, name=twitter, retweet_count=153, date=Wed Sep 21 02:31:25 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778315350689521664, text=With less than 50 days to go, tap ⚡️ Follow to see live US election updates in your timeline through Election Day. https://t.co/OzuxDAk0Wm, name=twitter, retweet_count=159, date=Wed Sep 21 01:00:14 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778295499140898816, text=@dmncbrm TWO. MORE. DAYS. #TNF, name=twitter, retweet_count=12, date=Tue Sep 20 23:41:21 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778285984743952384, text=@4ShellysFinds Thanks, Shelly! We're glad you love it!, name=twitter, retweet_count=11, date=Tue Sep 20 23:03:33 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778270419694395392, text=Watch Thursday Night Football LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/0MmLWlUigH, name=twitter, retweet_count=134, date=Tue Sep 20 22:01:42 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778251134192332804, text=RT @VanityFair: Emilia Clarke, Jon Voight, @tatianamaslany, @SophieT & more dramatically read @katyperry tweets. https://t.co/RlbjIgmNMo, name=twitter, retweet_count=884, date=Tue Sep 20 20:45:04 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778043537254330369, text=Obrigado to all of the incredible #Rio2016 athletes who participated in the #Paralympics — see you in 2020! https://t.co/h8Mvd8oKX8, name=twitter, retweet_count=466, date=Tue Sep 20 07:00:09 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=778026905169596417, text=@RobynMatza We're glad to have you, Robyn! Happy 9⃣️ years!, name=twitter, retweet_count=10, date=Tue Sep 20 05:54:03 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=777980625005326336, text=See how the stars answered your meaningful Q's last night at the #Emmys with #SmartGirlsAsk: https://t.co/oGMmSMgOys https://t.co/hKEfqY1fDf, name=twitter, retweet_count=160, date=Tue Sep 20 02:50:09 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=777915304261193728, text=Say more about what's happening! Rolling out now: photos, videos, GIFs, polls, and Quote Tweets no longer count tow… https://t.co/SRmsuks2ru, name=twitter, retweet_count=18152, date=Mon Sep 19 22:30:36 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=777893807652114432, text=RT @TwitterMovies: Here's how to see a custom @KevinHart4real emoji in your Tweets & Periscope broadcasts: #KevinHartWhatNow #KHWhatNow htt…, name=twitter, retweet_count=125, date=Mon Sep 19 21:05:10 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=777666077039865856, text=Thursday: watch @HoustonTexans vs @Patriots LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game da… https://t.co/7Qgoyi2VLu, name=twitter, retweet_count=294, date=Mon Sep 19 06:00:15 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=777649810006343680, text=Break a leg tonight, @jimmykimmel! Your #JimmyKimmel emoji is sure to make the #Emmys best-dressed list. https://t.co/d3p0ScyG2n, name=twitter, retweet_count=277, date=Mon Sep 19 04:55:37 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=776865821775663105, text=We've partnered w/ @smrtgrls and @TelevisionAcad to ask your Q's on the #Emmys red carpet — share w/ #SmartGirlsAsk! https://t.co/fiLuIOnlE2, name=twitter, retweet_count=205, date=Sat Sep 17 01:00:20 IST 2016}
+2016-12-18 20:42:11 INFO  Consumer:93 - {id=776626333447094272, text=Thanks for watching #TNF LIVE on Twitter! Catch the @Patriots vs. @HoustonTexans next Thursday right here 👇 
+https://t.co/eCsgy1y604, name=twitter, retweet_count=397, date=Fri Sep 16 09:08:41 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776603561425641472, text=One half down. One to go. Tune in now to catch the rest of #TNF LIVE on Twitter 👇 https://t.co/eCsgy1y604, name=twitter, retweet_count=193, date=Fri Sep 16 07:38:12 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776571584039399424, text=Thursday Night Football on Twitter is here! Watch #TNF LIVE NOW 👇
+https://t.co/eCsgy1y604, name=twitter, retweet_count=477, date=Fri Sep 16 05:31:08 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776526169785053184, text=#TNF  is LIVE on Twitter tonight! Who you got?
+
+Watch LIVE at 8pm ET ➡️ https://t.co/vHwCiwcRH9, name=twitter, retweet_count=158, date=Fri Sep 16 02:30:40 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776484512444276741, text=TONIGHT! #TNF kicks off LIVE on Twitter! Go to ⚡️ Moments or watch LIVE at 8pm ET 👇 https://t.co/eCsgy1y604, name=twitter, retweet_count=374, date=Thu Sep 15 23:45:08 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776458074244673537, text=RT @TwitterSports: Thursday Night Football is LIVE on Twitter! Retweet for a reminder to watch #NYJvsBUF on game day at 8pm ET. https://t.c…, name=twitter, retweet_count=1664, date=Thu Sep 15 22:00:05 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776156812764512257, text=Watch Thursday Night Football LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/jRd6gB2Luf, name=twitter, retweet_count=230, date=Thu Sep 15 02:02:59 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776091152667676673, text=See something on your timeline you want to share with your followers? Retweet! #TwitterTips https://t.co/Enmg9FwJeW, name=twitter, retweet_count=347, date=Wed Sep 14 21:42:04 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=776044283878969344, text=📺 👀 We're launching apps for Apple TV, Amazon Fire TV, and Xbox One, featuring live streaming video on Twitter! https://t.co/aBdfV5vqkV, name=twitter, retweet_count=1489, date=Wed Sep 14 18:35:50 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775834678251048961, text=@TheRealStanLee You got it! #Excelsior, name=twitter, retweet_count=32, date=Wed Sep 14 04:42:56 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775826085543972864, text=Take a #TravelTuesday hike and explore the red rock wonderland of @ArchesNPS.
+https://t.co/8IdL21oUHB https://t.co/Z3GpXqPjP0, name=twitter, retweet_count=151, date=Wed Sep 14 04:08:47 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775813028654612480, text=We've partnered w/ @smrtgrls and @TelevisionAcad to ask your Q's on the #Emmys red carpet — Tweet w/ #SmartGirlsAsk! https://t.co/id4qsTwEcU, name=twitter, retweet_count=175, date=Wed Sep 14 03:16:54 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775767615029415936, text=RT @periscopeco: Share the Periscope love — now on iMessage and iPad https://t.co/TjFfeSOnhW, name=twitter, retweet_count=175, date=Wed Sep 14 00:16:27 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775748446540050432, text=Thursday: watch @nyjets vs @buffalobills LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/llGdbmIf6a, name=twitter, retweet_count=847, date=Tue Sep 13 23:00:17 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775348462158163969, text=Don't miss a live moment! Turn on notifications to join in when someone you follow shares live video on Twitter. https://t.co/dddk81GuCH, name=twitter, retweet_count=838, date=Mon Sep 12 20:30:53 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=775043801643712512, text=People around the world honor 9/11 victims 15 years after the attacks. #NeverForget https://t.co/lc8wD4QlCO, name=twitter, retweet_count=1786, date=Mon Sep 12 00:20:16 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=774352006576164865, text=RT @vine: Friday Feeling 😎 https://t.co/ZckJ7swo4w, name=twitter, retweet_count=4759, date=Sat Sep 10 02:31:19 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=774324362765664256, text=Get your fashion fix and see what's happening during #NYFW with @TwitterFashion. #FollowFriday https://t.co/6mI0VPhriJ, name=twitter, retweet_count=154, date=Sat Sep 10 00:41:28 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=774276250407886848, text=New on Amazon Alexa! Use the Twitter Reader skill to hear trends, top Tweets, notifications & more! Just #AskAlexa. https://t.co/BvXRS4NiQu, name=twitter, retweet_count=622, date=Fri Sep 09 21:30:18 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=774067480784273408, text=Football fans: #TNF is LIVE on Twitter next Thursday! Go to Moments on game day to watch #NYJvsBUF. https://t.co/m9KLnfsrma, name=twitter, retweet_count=523, date=Fri Sep 09 07:40:43 IST 2016}
+2016-12-18 20:42:12 INFO  Consumer:93 - {id=774029912659243009, text=Space, the final frontier. These are the Tweets from those celebrating #StarTrek50
+🖖https://t.co/gAur5nwu4X https://t.co/cGwauQ5HdO, name=twitter, retweet_count=470, date=Fri Sep 09 05:11:26 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773973035221028865, text=RT @TwitterFashion: The best accessory for #NYFW? Tweets! See what's happening in fashion, from the shows to the streets, all week long. ht…, name=twitter, retweet_count=168, date=Fri Sep 09 01:25:25 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773955363188072448, text=The #Paralympics are underway — good luck to all the #Rio2016 athletes! https://t.co/ioQeZte9OJ https://t.co/w9B0VQ9Qia, name=twitter, retweet_count=313, date=Fri Sep 09 00:15:12 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773920594299498501, text=@yousuf_09 There is, Yousuf! Here's how to take control of read receipts 👇
+https://t.co/LWCsFWE768, name=twitter, retweet_count=56, date=Thu Sep 08 21:57:03 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773916770792910848, text=RT @periscopeco: See who's watching live! Now you can see when people you follow join your broadcast 👋 https://t.co/Qf0zhbwYNt, name=twitter, retweet_count=262, date=Thu Sep 08 21:41:51 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773913816740409345, text=New! Direct Messages are more dynamic than ever with read receipts, typing indicators, and web link previews. https://t.co/VEU92V5Gqj, name=twitter, retweet_count=8806, date=Thu Sep 08 21:30:07 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773659809660805120, text=Welcome to week 1, football fans! Make your Tweets a touchdown with new featured #Stickers all season long. https://t.co/z9XLjhgtd0, name=twitter, retweet_count=264, date=Thu Sep 08 04:40:47 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773644645129596928, text=From games to new devices, here's what happened at today's #AppleEvent: https://t.co/M8N02F4eHB https://t.co/HU31raqqIN, name=twitter, retweet_count=423, date=Thu Sep 08 03:40:31 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773633237134356481, text=@Zlatimeyer You had us at #hashtag 🙌, name=twitter, retweet_count=14, date=Thu Sep 08 02:55:11 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773552112714121216, text=It all begins with a Tweet! Learn how you can start or join any conversation on Twitter. #TwitterTips https://t.co/yCccvPyqRI, name=twitter, retweet_count=1296, date=Wed Sep 07 21:32:50 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773232947621003264, text=This #TravelTuesday, see why Mark Twain once wrote, "heaven was copied after Mauritius."
+🌴 https://t.co/2HJS8xhBqe https://t.co/gjHtHikxfK, name=twitter, retweet_count=233, date=Wed Sep 07 00:24:35 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=773229650096947200, text=@Nah_shelly Happy birthday, Nashelly! Here's another 🎈, name=twitter, retweet_count=15, date=Wed Sep 07 00:11:29 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=772130816591667201, text=We 👀 you, Jupiter. #JunoMission 
+https://t.co/YphJMZhTo0, name=twitter, retweet_count=1006, date=Sat Sep 03 23:25:06 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771843919902420992, text=RT @gov: Tracking #Hermine this Labor Day weekend? Follow this list for live updates: https://t.co/kjRnzsiyO3 #FollowFriday https://t.co/DI…, name=twitter, retweet_count=126, date=Sat Sep 03 04:25:05 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771828918273777664, text=Summer's almost over. What's your #FridayFeeling?, name=twitter, retweet_count=532, date=Sat Sep 03 03:25:28 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771764801152266241, text=Us too, @rihanna! 😂 https://t.co/YAhFZ00jdU, name=twitter, retweet_count=495, date=Fri Sep 02 23:10:41 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771535667193008130, text=RT @gov: This week 8 government officials answered your #AtoZika questions from Twitter. See how the conversation unfolded. https://t.co/In…, name=twitter, retweet_count=248, date=Fri Sep 02 08:00:12 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771459175293464576, text=RT @TwitterAlas: We're proud to launch our new Twitter emoji to celebrate #HispanicHeritageMonth! https://t.co/JozS0U4iOt, name=twitter, retweet_count=277, date=Fri Sep 02 02:56:15 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771398168525144064, text=@AN_TY_ We're glad you enjoyed your birthday surprise!🎈, name=twitter, retweet_count=17, date=Thu Sep 01 22:53:49 IST 2016}
+2016-12-18 20:42:13 INFO  Consumer:93 - {id=771057930711896064, text=RT @BuzzFeed: Watch @ShawnMendes let @KeithHabs and his Twitter fans make some weird decisions for him during the day https://t.co/D8d6hKiL…, name=twitter, retweet_count=16694, date=Thu Sep 01 00:21:50 IST 2016}
+2016-12-18 20:45:01 INFO  Consumer:107 - ========= Reading tweets ==========
+2016-12-18 20:45:04 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:45:04 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:45:05 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:45:06 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:49:47 INFO  App:17 -  ========== Starting ==========
+2016-12-18 20:49:50 INFO  Consumer:107 - ========= Reading tweets ==========
+2016-12-18 20:49:53 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:49:54 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:49:55 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:49:55 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:49:56 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:49:57 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:51:50 INFO  App:17 -  ========== Starting ==========
+2016-12-18 20:51:51 INFO  Consumer:108 - ========= Reading tweets ==========
+2016-12-18 20:51:54 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:51:55 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:51:57 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:51:57 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:51:59 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:52:00 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:26 INFO  App:17 -  ========== Starting ==========
+2016-12-18 20:54:28 INFO  Consumer:109 - ========= Reading tweets ==========
+2016-12-18 20:54:30 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:31 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:31 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:32 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:32 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:33 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781913425496662016, text=We need a fully functioning Supreme Court. Speak up if you agree it's time for a hearing and a vote: https://t.co/d6nmum1Ut7 #DoYourJob, name=BarackObama, retweet_count=939, date=Fri Sep 30 23:17:42 IST 2016}
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781885668016332800, text=There has never been a more qualified nominee, Senate leaders. He deserves a fair hearing and a vote. #DoYourJob https://t.co/qtzcY3iwyl, name=BarackObama, retweet_count=3172, date=Fri Sep 30 21:27:24 IST 2016}
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781613479589470208, text=It's the Senate's job to fairly consider Supreme Court nominees. Their refusal to do so is unacceptable: https://t.co/s8FdCa0tq6 #DoYourJob, name=BarackObama, retweet_count=1034, date=Fri Sep 30 03:25:49 IST 2016}
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781579567358095360, text="Everybody gets sick." Check out what President Obama is doing to extend access to paid sick leave: https://t.co/gOAc2HAkQg #LeadOnLeave, name=BarackObama, retweet_count=630, date=Fri Sep 30 01:11:04 IST 2016}
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781553914092990464, text=RT @ErnestMoniz: THIS is what a #CleanEnergy revolution looks like. New report out today → https://t.co/o13p5fPNDg #ActOnClimate https://t.…, name=BarackObama, retweet_count=291, date=Thu Sep 29 23:29:08 IST 2016}
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781532250143719424, text=Never underestimate the strength and resilience of the American economy. https://t.co/OFTN2FlRtq, name=BarackObama, retweet_count=1303, date=Thu Sep 29 22:03:03 IST 2016}
+2016-12-18 20:54:33 INFO  Consumer:95 - {id=781512097167384576, text=RT @Slate: President Obama answers Slate’s questions about his administration’s new rule extending paid sick leave: https://t.co/8AdEx431QN…, name=BarackObama, retweet_count=232, date=Thu Sep 29 20:42:58 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=781189166126264321, text=The @OFA Truth Team makes it easy to stay informed. Join today: https://t.co/Q0axQYyJY1, name=BarackObama, retweet_count=318, date=Wed Sep 28 23:19:45 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=781150531943211010, text=This is no accident—we're making a comeback because together, we've fought hard to support American families. https://t.co/LTk7SiTexP, name=BarackObama, retweet_count=3151, date=Wed Sep 28 20:46:14 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780875664953978881, text=We're better off than we were eight years ago. https://t.co/OwrTM3V78t, name=BarackObama, retweet_count=2590, date=Wed Sep 28 02:34:01 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780855089946726400, text=Household incomes are up, and the poverty rate is down across all demographics. https://t.co/cEIdPJuuvR, name=BarackObama, retweet_count=1028, date=Wed Sep 28 01:12:15 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780813534376538112, text=As long as Senate leaders keep refusing to do their jobs, @OFA supporters will continue speaking out against their… https://t.co/DkmDKpMhOw, name=BarackObama, retweet_count=2836, date=Tue Sep 27 22:27:08 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780791269060595712, text=Senate leaders have blocked Judge Garland's hearing for over six months now. Keep pushing: https://t.co/AGrUjJTnST #DoYourJob, name=BarackObama, retweet_count=822, date=Tue Sep 27 20:58:39 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780511904485605376, text=Important, tough conversations require solid facts. Get them from the @OFA Truth Team: https://t.co/5YH9zVeayn https://t.co/dD1EPgaA9W, name=BarackObama, retweet_count=951, date=Tue Sep 27 02:28:33 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780481839177748480, text=These are high praises from the American Bar Association—and yet, Senate leaders refuse to even consider Judge Garl… https://t.co/ryPFLZDAhY, name=BarackObama, retweet_count=2350, date=Tue Sep 27 00:29:05 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780458668122791936, text=Senate leaders' unprecedented obstruction of the Supreme Court nomination must end. Your voice matters: https://t.co/yhy8al1FK7 #DoYourJob, name=BarackObama, retweet_count=730, date=Mon Sep 26 22:57:01 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=780435649971167232, text=The American people are waiting for Senate leaders to do their jobs. https://t.co/LNqAQpxMle, name=BarackObama, retweet_count=1427, date=Mon Sep 26 21:25:33 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779428314012200960, text=Senate leaders have blocked Judge Garland's hearing for over six months now. Keep pushing: https://t.co/peV6aCYswa #DoYourJob, name=BarackObama, retweet_count=770, date=Sat Sep 24 02:42:45 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779411464830320640, text=Senate leaders need to work for the good of the American people, not seek out political points. https://t.co/Tdx3xk6gYi, name=BarackObama, retweet_count=2120, date=Sat Sep 24 01:35:48 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779395875239895042, text=Watch President Obama and @CEAChair Jason Furman discuss the positive gains the American economy has made. https://t.co/J28Crn3WAP, name=BarackObama, retweet_count=430, date=Sat Sep 24 00:33:51 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779380553334140932, text=Here are 16 broken records we shouldn't be proud of. https://t.co/x98dGgEloW, name=BarackObama, retweet_count=4385, date=Fri Sep 23 23:32:58 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779363981177843712, text=Stay informed. Stay engaged. Speak up. Join the @OFA Truth Team: https://t.co/GVTL4HrTXw, name=BarackObama, retweet_count=396, date=Fri Sep 23 22:27:07 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779348972670517248, text=Another record broken: 16 months in a row of undeniable, record-breaking heat.
+https://t.co/qMAH7nFf5I #ActOnClimate, name=BarackObama, retweet_count=1426, date=Fri Sep 23 21:27:29 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779082523963863041, text=Happy #FirstDayofFall. https://t.co/ix02MNuOud, name=BarackObama, retweet_count=14290, date=Fri Sep 23 03:48:43 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779068216018468864, text=We can't sit idly by. Climate change is likely to threaten our national security—we must act now.… https://t.co/6QQmpf27W0, name=BarackObama, retweet_count=1526, date=Fri Sep 23 02:51:51 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779032515302400000, text=Judge Garland is highly qualified for the bench—even some Senate leaders who are now blocking his hearing have agre… https://t.co/D5ScOCikVl, name=BarackObama, retweet_count=2533, date=Fri Sep 23 00:30:00 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=779010876074438657, text=Senate leaders' blind obstruction of Judge Garland's nomination sets a dangerous precedent. We can't stand idly by. https://t.co/k76I6DCDRI, name=BarackObama, retweet_count=746, date=Thu Sep 22 23:04:00 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778986879249100800, text=Enough of the shameless partisanship, Senators. #DoYourJob and fill the Supreme Court vacancy. https://t.co/vIQY0bivo4, name=BarackObama, retweet_count=2321, date=Thu Sep 22 21:28:39 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778684733093912576, text=Help keep the pressure on Senate leaders to give Judge Garland a fair hearing before their next recess. https://t.co/lkLz4yidaw #DoYourJob, name=BarackObama, retweet_count=753, date=Thu Sep 22 01:28:02 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778653339751899136, text=The American Bar Association gave Judge Garland its highest possible rating. He deserves a hearing and a vote.… https://t.co/FUVmGKdZgB, name=BarackObama, retweet_count=3171, date=Wed Sep 21 23:23:17 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778633396998156288, text="Their right to inherit a healthy planet is a sacred responsibility." —President Obama #ActOnClimate https://t.co/MYumi6xiIW, name=BarackObama, retweet_count=1317, date=Wed Sep 21 22:04:02 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778609212599316480, text=Communities are already experiencing the effects of climate change—we can't afford not to act. Take a look:… https://t.co/sEjVzKqhsw, name=BarackObama, retweet_count=1758, date=Wed Sep 21 20:27:56 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778315562623438848, text=As the #UNGA meets, take a look at the progress we've made thanks to American leadership in the world. https://t.co/b4T0zGccLH, name=BarackObama, retweet_count=838, date=Wed Sep 21 01:01:05 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=778239848566194176, text=LIVE: President Obama is speaking at the 71st Session of the United Nations General Assembly. https://t.co/J8cm9QquER #UNGA, name=BarackObama, retweet_count=639, date=Tue Sep 20 20:00:13 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=777891139848253441, text=LIVE: President Obama is delivering a statement in New York. https://t.co/MJUr8C84Wd, name=BarackObama, retweet_count=666, date=Mon Sep 19 20:54:34 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776909671055568896, text=President Obama commemorates #HispanicHeritageMonth in an address to @CHCI. https://t.co/oTVX7zOyFD, name=BarackObama, retweet_count=1271, date=Sat Sep 17 03:54:34 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776894274055000064, text=Senate leaders are putting politics above their basic responsibility to hold a hearing for Judge Garland. #DoYourJob https://t.co/N7vH2ncwmb, name=BarackObama, retweet_count=3516, date=Sat Sep 17 02:53:23 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776872058089267201, text=Six months is long enough, senators. It's time to #DoYourJob and give Judge Garland a hearing. https://t.co/A2Yedmhuw6, name=BarackObama, retweet_count=942, date=Sat Sep 17 01:25:06 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776856997195022336, text=RT @OFA: Friendly reminder for Senate leaders on #ConstitutionDay2016: https://t.co/my5zUWxb6j, name=BarackObama, retweet_count=354, date=Sat Sep 17 00:25:16 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776834111566516224, text=The Supreme Court should remain above partisan politics, Senator. https://t.co/DlWud7Rh3K #DoYourJob https://t.co/Wjd96qn9Hf, name=BarackObama, retweet_count=1207, date=Fri Sep 16 22:54:19 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776811448651558912, text=Progress starts with a conversation. Make sure you have the facts to get yours started: https://t.co/MxWdiJxz4o https://t.co/Q3iP0Jwg1t, name=BarackObama, retweet_count=950, date=Fri Sep 16 21:24:16 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776532109498339328, text=When we protect our lands and waters, it helps us protect our climate for future generations. #ActOnClimate https://t.co/8tygZI0TDR, name=BarackObama, retweet_count=4587, date=Fri Sep 16 02:54:16 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776493584572780545, text="There is no 'election year' exception in Article II." Sen. Leahy calls on senators to give Judge Garland a hearing: https://t.co/VjxClMdqUg, name=BarackObama, retweet_count=1312, date=Fri Sep 16 00:21:11 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776460530584133633, text=President Obama just made history by protecting nearly 5,000 square miles off the New England coast. https://t.co/i8MAFYU60k #OurOcean, name=BarackObama, retweet_count=2583, date=Thu Sep 15 22:09:51 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776439380281925632, text=LIVE: President Obama is speaking at the 2016 Our Ocean Conference. https://t.co/ALK46jhUpw #OurOcean, name=BarackObama, retweet_count=392, date=Thu Sep 15 20:45:48 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776426790109650944, text=RT @WhiteHouse: BREAKING: @POTUS will designate the first-ever marine monument in the Atlantic Ocean:
+https://t.co/t33G5z2QpK https://t.co/…, name=BarackObama, retweet_count=1058, date=Thu Sep 15 19:55:46 IST 2016}
+2016-12-18 20:54:34 INFO  Consumer:95 - {id=776160016483033088, text=We need nine justices for a fully functioning Supreme Court—and editorial boards across the country agree. https://t.co/WD42qmgXpO, name=BarackObama, retweet_count=1502, date=Thu Sep 15 02:15:42 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=776134671415451648, text=RT @cspan: .@RepJohnLewis on #GunViolence: "The time for silence is over." https://t.co/zUUX02jNnN, name=BarackObama, retweet_count=702, date=Thu Sep 15 00:35:00 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=776115966161793025, text=We can't let Senate leaders ignore their constitutional responsibilities. https://t.co/ExY5wZcWi6 #DoYourJob https://t.co/IwO7CAoVm2, name=BarackObama, retweet_count=1494, date=Wed Sep 14 23:20:40 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=776098253800484866, text=Stay informed. Stay engaged. Speak up. Join the @OFA Truth Team: https://t.co/b0eae4PXDX, name=BarackObama, retweet_count=353, date=Wed Sep 14 22:10:17 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=776079054512369668, text=The U.S. is on track to hit two million solar installations within the next two years. Momentum is building: https://t.co/dTb4M3J4MY, name=BarackObama, retweet_count=1745, date=Wed Sep 14 20:54:00 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775804899049078784, text=Time is almost up for Senate leaders to do the right thing and fill the #SCOTUS vacancy. https://t.co/rPbzUkZAUE #DoYourJob, name=BarackObama, retweet_count=592, date=Wed Sep 14 02:44:36 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775788508841517057, text=Median household income: ⬆
+Poverty rate: ⬇
+Uninsured rate: ⬇
+
+Middle-class economics works. https://t.co/ThPXBSux09, name=BarackObama, retweet_count=3841, date=Wed Sep 14 01:39:28 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775773838403436544, text=In 2015, we saw the fastest household income growth on record and the largest drop in the poverty rate since 1968. https://t.co/Kyw1vuhont, name=BarackObama, retweet_count=1487, date=Wed Sep 14 00:41:10 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775729726107201536, text=RT @WhiteHouse: Fastest household income growth on record ✓ 
+ 
+Largest drop in poverty rate since 1968 ✓ 
+
+https://t.co/qK505KUeuP https://…, name=BarackObama, retweet_count=1055, date=Tue Sep 13 21:45:53 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775710721027952640, text=The Supreme Court must remain above partisanship. Senate leaders: The time to fill the vacant seat is now. https://t.co/7mmbuXjsPO, name=BarackObama, retweet_count=3488, date=Tue Sep 13 20:30:22 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775429955253481473, text=ICYMI: This is a really big deal. https://t.co/raNeUV5fRd, name=BarackObama, retweet_count=2601, date=Tue Sep 13 01:54:42 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775407521167126528, text=Vice President Biden speaks on the "dangerous precedent" Senate leaders are setting by refusing to do their jobs. https://t.co/W1A7Oyb4gB, name=BarackObama, retweet_count=1596, date=Tue Sep 13 00:25:34 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775387720285683712, text=These are records we can't keep breaking. We must work together to #ActOnClimate. https://t.co/sTxNR10sjK, name=BarackObama, retweet_count=3094, date=Mon Sep 12 23:06:53 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=775350531812265984, text=Meaningful action on climate change can't wait. President Obama explains why in this @nytimes interview. https://t.co/zbaDcpztIW, name=BarackObama, retweet_count=1284, date=Mon Sep 12 20:39:06 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=774353170159968259, text=We need to keep up efforts to fight climate change at every level—locally, nationally, globally. #ActOnClimate https://t.co/L10qdkgPDg, name=BarackObama, retweet_count=3551, date=Sat Sep 10 02:35:57 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=774340573310353408, text=RT @FactsOnClimate: BREAKING: A new strategy to harness the power of wind means more jobs, less pollution: https://t.co/s0I0CmalFL https://…, name=BarackObama, retweet_count=725, date=Sat Sep 10 01:45:53 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=774325506065985536, text=Senate leaders are back in session. Keep the pressure high—call out their obstructionism. https://t.co/eThTUbIMH0 #DoYourJob, name=BarackObama, retweet_count=636, date=Sat Sep 10 00:46:01 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=774303257023963136, text=There's no need to overcomplicate the process. #DoYourJob https://t.co/QgaNgKNBzJ, name=BarackObama, retweet_count=1315, date=Fri Sep 09 23:17:36 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=774263324032790528, text=We must take bold steps now—climate change is already impacting millions of people. https://t.co/ZWBgt0XEWt #ActOnClimate, name=BarackObama, retweet_count=1356, date=Fri Sep 09 20:38:56 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773969076171309056, text=Congress is back, and they have important work to do before their next recess. Make sure you say where you stand: https://t.co/Ll1Croa3Ui, name=BarackObama, retweet_count=904, date=Fri Sep 09 01:09:42 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773952874833321984, text=RT @VPLive: "Every nominee, including Kennedy in an election year—got an up or down vote" —@VP on serving as Senate Judiciary Chairman or R…, name=BarackObama, retweet_count=312, date=Fri Sep 09 00:05:19 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773938870421368832, text=Stay in the loop with important facts. Join @OFA's Truth Team: https://t.co/2KkNrPgHPL https://t.co/FDOocrpQvU, name=BarackObama, retweet_count=476, date=Thu Sep 08 23:09:40 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773638787549188096, text=Rising sea levels are already flooding homes and roads along America's coasts. The time to #ActOnClimate is now. https://t.co/OplSsyTHEX, name=BarackObama, retweet_count=1835, date=Thu Sep 08 03:17:15 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773612008889421824, text=Fewer Americans are uninsured than ever before, thanks to #Obamacare. https://t.co/tFbGtiPzWL, name=BarackObama, retweet_count=837, date=Thu Sep 08 01:30:50 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773578682350702592, text=Congress is back from recess. Help put the pressure on Senate leaders to give Judge Garland a hearing: https://t.co/F4eATpElMT #DoYourJob, name=BarackObama, retweet_count=798, date=Wed Sep 07 23:18:24 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773549731901349888, text=The process is clear. The Supreme Court and American people are waiting for Senate leaders to get to work. https://t.co/1YzeZLIcAT, name=BarackObama, retweet_count=3178, date=Wed Sep 07 21:23:22 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773279043726618624, text=Senate leaders have 32 days before their next recess to give Judge Garland a hearing and a vote. Call them out now: https://t.co/IV1AGOEDag, name=BarackObama, retweet_count=1024, date=Wed Sep 07 03:27:45 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773254286855712769, text=The Paris Climate Agreement is a big deal in the fight against climate change—and now, a big step closer to reality. https://t.co/5vd6n0BFgG, name=BarackObama, retweet_count=1182, date=Wed Sep 07 01:49:23 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773233683608199168, text=The United States is leading the way in the fight to #ActOnClimate. https://t.co/vkUMjg6XKc, name=BarackObama, retweet_count=572, date=Wed Sep 07 00:27:30 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773203627125055488, text=Conservation not only protects diverse lands and species, it's also an important part of battling climate change. https://t.co/gjvhHNPFKL, name=BarackObama, retweet_count=1230, date=Tue Sep 06 22:28:04 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=773174849346768896, text="When we protect our lands, it helps us protect the climate for the future." —President Obama #ActOnClimate https://t.co/qdoCgYPQom, name=BarackObama, retweet_count=1290, date=Tue Sep 06 20:33:43 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=772827439126966272, text=President Obama has a message for America's workers today—check it out: https://t.co/KlPj1YGeQ4 #LaborDay https://t.co/qzbHAfRXNs, name=BarackObama, retweet_count=861, date=Mon Sep 05 21:33:14 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=772117278464679937, text=In the weekly address, President Obama commemorates the labor movement that helped build this country. https://t.co/JsZvcpTyee, name=BarackObama, retweet_count=1100, date=Sat Sep 03 22:31:19 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=772103576697049089, text=RT @WhiteHouse: It's official: The U.S. and China have entered into the #ParisAgreement: https://t.co/RQIMfGp7rg https://t.co/7IPK6WAeZD, name=BarackObama, retweet_count=2898, date=Sat Sep 03 21:36:52 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771836881495584768, text=Recess is almost over, and editorial boards across the country are calling for Senate leaders to do their jobs. https://t.co/Pr78WaT0V2, name=BarackObama, retweet_count=2539, date=Sat Sep 03 03:57:07 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771799796344512512, text=When Americans stand together, there's no challenge too great to solve—not even climate change. #ActOnClimate today: https://t.co/5mqlv3ZXas, name=BarackObama, retweet_count=694, date=Sat Sep 03 01:29:45 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771776767581360128, text=Unemployment: ⬇
+Deficits: ⬇
+Uninsured rate: ⬇
+Jobs: +15.1 million https://t.co/mWcAgfM8zn, name=BarackObama, retweet_count=2704, date=Fri Sep 02 23:58:14 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771755042391097345, text=It's been a long road, but we're far better off than we were eight years ago. https://t.co/o8UdtCezYE, name=BarackObama, retweet_count=2443, date=Fri Sep 02 22:31:55 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771727047710412800, text=The economy added 151,000 jobs in August—extending the longest streak of total job growth on record., name=BarackObama, retweet_count=2392, date=Fri Sep 02 20:40:40 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771454141801439233, text=Senate leaders return from recess next week. They need to get to work on a vote for Judge Garland—say so. https://t.co/pdRYkz7kFV #DoYourJob, name=BarackObama, retweet_count=849, date=Fri Sep 02 02:36:14 IST 2016}
+2016-12-18 20:54:35 INFO  Consumer:95 - {id=771430763069788160, text=Recess is almost over, and editorial boards across the country are calling for Senate leaders to do their jobs. https://t.co/ScbkMVcovu, name=BarackObama, retweet_count=2712, date=Fri Sep 02 01:03:21 IST 2016}
+2016-12-18 20:54:36 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:54:36 INFO  Consumer:95 - {id=771394007196798976, text=RT @WhiteHouse: "There's no conflict between a healthy economy and a healthy planet." —@POTUS https://t.co/kLOKgyiEvf https://t.co/GL2z2FHN…, name=BarackObama, retweet_count=957, date=Thu Sep 01 22:37:17 IST 2016}
+2016-12-18 20:54:36 INFO  Consumer:95 - {id=771377146820300800, text=Stay in the loop with important facts, brought to you weekly. Join @OFA's Truth Team: https://t.co/YNdzkLi9cb, name=BarackObama, retweet_count=342, date=Thu Sep 01 21:30:17 IST 2016}
+2016-12-18 20:54:36 INFO  Consumer:95 - {id=771070737624866816, text=Senate leaders need to hear you expect a vote on Judge Garland when recess ends—say you'll let them know: https://t.co/ETmcpsRRY6 #DoYourJob, name=BarackObama, retweet_count=776, date=Thu Sep 01 01:12:44 IST 2016}
+2016-12-18 20:54:36 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:37 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:37 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:38 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:39 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:40 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:41 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:43 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:43 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:44 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:45 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:46 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:47 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:48 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:49 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:50 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:51 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:51 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:51 INFO  Consumer:95 - {id=781908744485548033, text=We've updated our Terms & Privacy Policy. Check out what's new:
+✔️https://t.co/Z9WvxIi0Yt
+✔️https://t.co/uVZBuWspC3
+https://t.co/tSxtVPmlLk, name=twitter, retweet_count=302, date=Fri Sep 30 22:59:06 IST 2016}
+2016-12-18 20:54:51 INFO  Consumer:95 - {id=781708851187949568, text=Next Thursday watch @AZCardinals vs @49ers LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCivVgPB on game day.
+https://t.co/eCsgy1PHoE, name=twitter, retweet_count=259, date=Fri Sep 30 09:44:48 IST 2016}
+2016-12-18 20:54:51 INFO  Consumer:95 - {id=781678684608536576, text=Reading through all of these #HowTwitterHasChangedMyLife Tweets like https://t.co/0Vp9oxkZBv, name=twitter, retweet_count=449, date=Fri Sep 30 07:44:55 IST 2016}
+2016-12-18 20:54:51 INFO  Consumer:95 - {id=781560332938387457, text=No matter how you like your cup of joe, #NationalCoffeeDay is worth celebrating!
+☕️ https://t.co/4PRGl76ypO https://t.co/oja341aIAo, name=twitter, retweet_count=579, date=Thu Sep 29 23:54:38 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781541433966637056, text=#TNF will be back streaming LIVE on Twitter next week: @AZCardinals vs @49ers. Tonight, catch the @MiamiDolphins vs… https://t.co/pFBQCXGeGn, name=twitter, retweet_count=268, date=Thu Sep 29 22:39:32 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781279748542586886, text=Tonight: welcome back to the #Empire. Tweet with the cast during the show this #EmpireWednesday to unlock fresh emo… https://t.co/uSqWEvjScy, name=twitter, retweet_count=457, date=Thu Sep 29 05:19:42 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781253380593287168, text=RT @TwitterMovies: Wands at the ready, the new trailer for #FantasticBeasts is here. https://t.co/JG05i48bDA, name=twitter, retweet_count=82, date=Thu Sep 29 03:34:55 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781231282768314369, text=Express yourself with more than just words. Get creative with polls and #Stickers. #TwitterTips https://t.co/G3IQWi3XCp, name=twitter, retweet_count=248, date=Thu Sep 29 02:07:07 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781201773889413120, text=Righteous move, @StephenAtHome 👊 https://t.co/2N5JI8IJiS, name=twitter, retweet_count=90, date=Thu Sep 29 00:09:51 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781160717378588672, text=Need some tips for making a great Moment? Learn more! ⬇️
+https://t.co/uk9v6I2znW, name=twitter, retweet_count=390, date=Wed Sep 28 21:26:42 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=781160119358763008, text=For everyone who wants to make a Moment – starting today you can! Creators everywhere can now tell stories with Twe… https://t.co/ORdleOt3un, name=twitter, retweet_count=4685, date=Wed Sep 28 21:24:20 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780892377313443840, text=Take a look back at the first of the US presidential #debates between @HillaryClinton and @realDonaldTrump:… https://t.co/3FlO5Udnvy, name=twitter, retweet_count=253, date=Wed Sep 28 03:40:25 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780862250168881152, text=RT @TheNextWeb: Twitter's new feature makes it dead simple to register to vote https://t.co/zCMNDFMHQk #iregistered https://t.co/lnt0HWQMzS, name=twitter, retweet_count=102, date=Wed Sep 28 01:40:42 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780811794591866880, text=To get your voter registration information, tap below to send your five digit zip code in a private message to @gov. https://t.co/VpyIkmbfxH, name=twitter, retweet_count=416, date=Tue Sep 27 22:20:13 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780809477754789888, text=Twitter is helping you register to vote! Send a Direct Message to @gov to get started: https://t.co/1DgGG9i71o https://t.co/shckBNcT3l, name=twitter, retweet_count=760, date=Tue Sep 27 22:11:00 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780762682504859648, text=RT @gov: It's National Voter Registration Day. Have you registered to vote? Let the world know! Tweet with #iRegistered. https://t.co/hdPe2…, name=twitter, retweet_count=501, date=Tue Sep 27 19:05:04 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780602908135923712, text=The biggest moments, Tweets, and topics on Twitter from the first of the US presidential #debates. https://t.co/9mNWW0HkkQ, name=twitter, retweet_count=195, date=Tue Sep 27 08:30:10 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780600671095566336, text=The #debates continue, LIVE on Twitter. Stay tuned for the vice presidential debate streaming LIVE on Tuesday, 10/4. https://t.co/l2fPw8j3O6, name=twitter, retweet_count=224, date=Tue Sep 27 08:21:17 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780573748663427072, text=Streaming LIVE:
+
+@HillaryClinton
+#debates  
+@realDonaldTrump
+
+Watch on Twitter NOW!
+https://t.co/l2fPw8j3O6, name=twitter, retweet_count=696, date=Tue Sep 27 06:34:18 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780557835180449792, text=RT @gov: ONE HOUR TO GO! Retweet if you're ready to watch the #debates streaming LIVE on Twitter!
+https://t.co/Amu2z9SmqF, name=twitter, retweet_count=197, date=Tue Sep 27 05:31:04 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780542562679398400, text=Streaming LIVE in two hours:
+
+@HillaryClinton
+#debates 
+@realDonaldTrump
+
+#GoLive on Twitter ⬇️
+https://t.co/l2fPw8j3O6, name=twitter, retweet_count=465, date=Tue Sep 27 04:30:23 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780445616782516224, text=RT @gov: Tonight!
+
+The first presidential debate is LIVE on Twitter. Go to https://t.co/6N9kG0RZrN or ⚡️Moments at 8:30pm ET and Tweet with…, name=twitter, retweet_count=304, date=Mon Sep 26 22:05:09 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780396679535005696, text=Tonight: the first of the US presidential #debates will be streaming LIVE on Twitter. Tap ⬇️ to watch at 8:30pm ET. https://t.co/l2fPw8j3O6, name=twitter, retweet_count=1538, date=Mon Sep 26 18:50:42 IST 2016}
+2016-12-18 20:54:52 INFO  Consumer:95 - {id=780211445531160576, text=RT @gov: 24 hours away.
+
+Watch the US presidential #debates LIVE on Twitter! Go to ⚡️Moments or https://t.co/6N9kG19AQn. https://t.co/mMgRx…, name=twitter, retweet_count=270, date=Mon Sep 26 06:34:38 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=780127417071316993, text=RT @bpolitics: The presidential #debates will be streamed LIVE on Twitter. Coverage begins Monday at 8:30pm ET. Join us! https://t.co/gF4jM…, name=twitter, retweet_count=333, date=Mon Sep 26 01:00:44 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=780055140476649472, text=Tomorrow night.
+
+The US presidential #debates LIVE on Twitter. Go to ⚡️ Moments or https://t.co/yn4Jkmxb1l to watch.
+https://t.co/l2fPw8j3O6, name=twitter, retweet_count=730, date=Sun Sep 25 20:13:32 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779771224691920896, text=#APeoplesJourney: a museum 100 years in the making, step inside today's historic opening of the @NMAAHC. https://t.co/0QVGYkSnct, name=twitter, retweet_count=832, date=Sun Sep 25 01:25:22 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779738434181017600, text=RT @chancetherapper: I spoke w @twitter last night about #MCD #MagColoringDay https://t.co/5RvvB5kt48, name=twitter, retweet_count=2181, date=Sat Sep 24 23:15:04 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779449443670032384, text=#TNF week 3 is in the 📚.
+
+Rewind to the best moments from last night's LIVE matchup between the @HoustonTexans and… https://t.co/7H5TYXlmpu, name=twitter, retweet_count=243, date=Sat Sep 24 04:06:43 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779372393655447552, text=Watch the US presidential #debates LIVE on Twitter! Go to ⚡ Moments or https://t.co/yn4Jkmxb1l on Monday, 9/26 at 8… https://t.co/FNwYD7Wp4G, name=twitter, retweet_count=609, date=Fri Sep 23 23:00:33 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779160802548867072, text=We've got a bye next week! Tune in to #TNF Thursday, October 6th and catch @AZCardinals vs @49ers LIVE on Twitter.
+https://t.co/eCsgy1y604, name=twitter, retweet_count=228, date=Fri Sep 23 08:59:46 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779139495648047104, text=The second half of #HOUvsNE is kicking off now, LIVE on Twitter.  #TNF 
+https://t.co/eCsgy1y604, name=twitter, retweet_count=138, date=Fri Sep 23 07:35:06 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779108361883176960, text=#TNF is back.
+
+Tap 👇 now to catch the @HoustonTexans take on the @Patriots LIVE on Twitter!
+https://t.co/eCsgy1y604, name=twitter, retweet_count=281, date=Fri Sep 23 05:31:23 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779082871650660353, text=RT @NFL: 🏈🏈SOOOOOOOON!🏈🏈
+@HoustonTexans. @Patriots.
+
+💻📱: https://t.co/cwnT5bPB2K 
+📺: @NFLonCBS #TNF #HOUvsNE, name=twitter, retweet_count=439, date=Fri Sep 23 03:50:05 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779062901554360320, text=@rowdELife @NFLTNF Yes! #HOUvsNE kicks off on Twitter at 8pm ET. Tap below to watch! ⬇️
+https://t.co/eCsgy1y604, name=twitter, retweet_count=16, date=Fri Sep 23 02:30:44 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779033905412177920, text=Fall is finally here! Love it or hate it, here's what people are saying about the #FirstDayofFall.
+🍂… https://t.co/E89jSEUO0q, name=twitter, retweet_count=517, date=Fri Sep 23 00:35:31 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779017477967663104, text=GAME DAY.
+
+The @HoustonTexans take on the @Patriots tonight, LIVE on Twitter! Go to ⚡️ Moments or watch 👇 at 8pm ET.
+https://t.co/eCsgy1y604, name=twitter, retweet_count=208, date=Thu Sep 22 23:30:14 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=779003037218025472, text=RT @gov: Your official hashtag for the 2016 US Presidential Debates has arrived: #debates! https://t.co/aNMLtai25b, name=twitter, retweet_count=267, date=Thu Sep 22 22:32:51 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=778985385242218496, text=TONIGHT! Watch @HoustonTexans vs @Patriots LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 at 8pm ET. https://t.co/OgzSCu50x3, name=twitter, retweet_count=265, date=Thu Sep 22 21:22:43 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=778733090130784256, text=Unleash the Lyons, #Empire is back! Tonight, we're crowning Cookie with a new emoji. Now slay! https://t.co/LCGq1RAsv0, name=twitter, retweet_count=575, date=Thu Sep 22 04:40:11 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=778659869574299648, text=@comms_kelly It's definitely one of our favorites too, Lauren! 😹, name=twitter, retweet_count=15, date=Wed Sep 21 23:49:14 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=778650086481866752, text=RT @TwitterSports: Thursday Night Football is LIVE on Twitter Thursday at 8pm ET! Retweet for a reminder to watch on game day. #HOUvsNE htt…, name=twitter, retweet_count=4349, date=Wed Sep 21 23:10:21 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=778647724547641344, text=@IainRoster Cheers, Iain! Happy Birthday!🎈, name=twitter, retweet_count=17, date=Wed Sep 21 23:00:58 IST 2016}
+2016-12-18 20:54:53 INFO  Consumer:95 - {id=778645733809332225, text=@Johnmarc Thanks, Jonathan! What's your favorite new feature?, name=twitter, retweet_count=16, date=Wed Sep 21 22:53:04 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778625809783197696, text=Get more of what you love. Follow the accounts you care about to see what's happening in their world. #TwitterTips https://t.co/oI7Qp3ZY7d, name=twitter, retweet_count=210, date=Wed Sep 21 21:33:53 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778581426123919360, text=RT @gov: All of the 2016 US presidential #debates will be streamed LIVE on Twitter through our partnership with @bpolitics https://t.co/XI0…, name=twitter, retweet_count=809, date=Wed Sep 21 18:37:31 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778397896055984128, text=@anneseon It's never too late, Rose! Happy Birthday! 🎈, name=twitter, retweet_count=20, date=Wed Sep 21 06:28:15 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778368675606704128, text=The future of gender equality is now. See how #HeForShe has been what's happening on Twitter for 2 years:… https://t.co/SnayLPvsDf, name=twitter, retweet_count=745, date=Wed Sep 21 04:32:08 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778351731532967936, text=@mohammadsohaib3 You're welcome, Muhammad! Gotta keep things comfortable. 😎, name=twitter, retweet_count=15, date=Wed Sep 21 03:24:48 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778338298175434752, text=Head to Bangkok this #TravelTuesday to visit temples, eat street food, and take in the breathtaking views.… https://t.co/hOD4WeW103, name=twitter, retweet_count=153, date=Wed Sep 21 02:31:25 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778315350689521664, text=With less than 50 days to go, tap ⚡️ Follow to see live US election updates in your timeline through Election Day. https://t.co/OzuxDAk0Wm, name=twitter, retweet_count=159, date=Wed Sep 21 01:00:14 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778295499140898816, text=@dmncbrm TWO. MORE. DAYS. #TNF, name=twitter, retweet_count=12, date=Tue Sep 20 23:41:21 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778285984743952384, text=@4ShellysFinds Thanks, Shelly! We're glad you love it!, name=twitter, retweet_count=11, date=Tue Sep 20 23:03:33 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778270419694395392, text=Watch Thursday Night Football LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/0MmLWlUigH, name=twitter, retweet_count=134, date=Tue Sep 20 22:01:42 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778251134192332804, text=RT @VanityFair: Emilia Clarke, Jon Voight, @tatianamaslany, @SophieT & more dramatically read @katyperry tweets. https://t.co/RlbjIgmNMo, name=twitter, retweet_count=884, date=Tue Sep 20 20:45:04 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778043537254330369, text=Obrigado to all of the incredible #Rio2016 athletes who participated in the #Paralympics — see you in 2020! https://t.co/h8Mvd8oKX8, name=twitter, retweet_count=466, date=Tue Sep 20 07:00:09 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=778026905169596417, text=@RobynMatza We're glad to have you, Robyn! Happy 9⃣️ years!, name=twitter, retweet_count=10, date=Tue Sep 20 05:54:03 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=777980625005326336, text=See how the stars answered your meaningful Q's last night at the #Emmys with #SmartGirlsAsk: https://t.co/oGMmSMgOys https://t.co/hKEfqY1fDf, name=twitter, retweet_count=160, date=Tue Sep 20 02:50:09 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=777915304261193728, text=Say more about what's happening! Rolling out now: photos, videos, GIFs, polls, and Quote Tweets no longer count tow… https://t.co/SRmsuks2ru, name=twitter, retweet_count=18152, date=Mon Sep 19 22:30:36 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=777893807652114432, text=RT @TwitterMovies: Here's how to see a custom @KevinHart4real emoji in your Tweets & Periscope broadcasts: #KevinHartWhatNow #KHWhatNow htt…, name=twitter, retweet_count=125, date=Mon Sep 19 21:05:10 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=777666077039865856, text=Thursday: watch @HoustonTexans vs @Patriots LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game da… https://t.co/7Qgoyi2VLu, name=twitter, retweet_count=294, date=Mon Sep 19 06:00:15 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=777649810006343680, text=Break a leg tonight, @jimmykimmel! Your #JimmyKimmel emoji is sure to make the #Emmys best-dressed list. https://t.co/d3p0ScyG2n, name=twitter, retweet_count=277, date=Mon Sep 19 04:55:37 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776865821775663105, text=We've partnered w/ @smrtgrls and @TelevisionAcad to ask your Q's on the #Emmys red carpet — share w/ #SmartGirlsAsk! https://t.co/fiLuIOnlE2, name=twitter, retweet_count=205, date=Sat Sep 17 01:00:20 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776626333447094272, text=Thanks for watching #TNF LIVE on Twitter! Catch the @Patriots vs. @HoustonTexans next Thursday right here 👇 
+https://t.co/eCsgy1y604, name=twitter, retweet_count=397, date=Fri Sep 16 09:08:41 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776603561425641472, text=One half down. One to go. Tune in now to catch the rest of #TNF LIVE on Twitter 👇 https://t.co/eCsgy1y604, name=twitter, retweet_count=193, date=Fri Sep 16 07:38:12 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776571584039399424, text=Thursday Night Football on Twitter is here! Watch #TNF LIVE NOW 👇
+https://t.co/eCsgy1y604, name=twitter, retweet_count=477, date=Fri Sep 16 05:31:08 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776526169785053184, text=#TNF  is LIVE on Twitter tonight! Who you got?
+
+Watch LIVE at 8pm ET ➡️ https://t.co/vHwCiwcRH9, name=twitter, retweet_count=158, date=Fri Sep 16 02:30:40 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776484512444276741, text=TONIGHT! #TNF kicks off LIVE on Twitter! Go to ⚡️ Moments or watch LIVE at 8pm ET 👇 https://t.co/eCsgy1y604, name=twitter, retweet_count=374, date=Thu Sep 15 23:45:08 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776458074244673537, text=RT @TwitterSports: Thursday Night Football is LIVE on Twitter! Retweet for a reminder to watch #NYJvsBUF on game day at 8pm ET. https://t.c…, name=twitter, retweet_count=1664, date=Thu Sep 15 22:00:05 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776156812764512257, text=Watch Thursday Night Football LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/jRd6gB2Luf, name=twitter, retweet_count=230, date=Thu Sep 15 02:02:59 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776091152667676673, text=See something on your timeline you want to share with your followers? Retweet! #TwitterTips https://t.co/Enmg9FwJeW, name=twitter, retweet_count=347, date=Wed Sep 14 21:42:04 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=776044283878969344, text=📺 👀 We're launching apps for Apple TV, Amazon Fire TV, and Xbox One, featuring live streaming video on Twitter! https://t.co/aBdfV5vqkV, name=twitter, retweet_count=1489, date=Wed Sep 14 18:35:50 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775834678251048961, text=@TheRealStanLee You got it! #Excelsior, name=twitter, retweet_count=32, date=Wed Sep 14 04:42:56 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775826085543972864, text=Take a #TravelTuesday hike and explore the red rock wonderland of @ArchesNPS.
+https://t.co/8IdL21oUHB https://t.co/Z3GpXqPjP0, name=twitter, retweet_count=151, date=Wed Sep 14 04:08:47 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775813028654612480, text=We've partnered w/ @smrtgrls and @TelevisionAcad to ask your Q's on the #Emmys red carpet — Tweet w/ #SmartGirlsAsk! https://t.co/id4qsTwEcU, name=twitter, retweet_count=175, date=Wed Sep 14 03:16:54 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775767615029415936, text=RT @periscopeco: Share the Periscope love — now on iMessage and iPad https://t.co/TjFfeSOnhW, name=twitter, retweet_count=175, date=Wed Sep 14 00:16:27 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775748446540050432, text=Thursday: watch @nyjets vs @buffalobills LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/llGdbmIf6a, name=twitter, retweet_count=847, date=Tue Sep 13 23:00:17 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775348462158163969, text=Don't miss a live moment! Turn on notifications to join in when someone you follow shares live video on Twitter. https://t.co/dddk81GuCH, name=twitter, retweet_count=838, date=Mon Sep 12 20:30:53 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=775043801643712512, text=People around the world honor 9/11 victims 15 years after the attacks. #NeverForget https://t.co/lc8wD4QlCO, name=twitter, retweet_count=1786, date=Mon Sep 12 00:20:16 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=774352006576164865, text=RT @vine: Friday Feeling 😎 https://t.co/ZckJ7swo4w, name=twitter, retweet_count=4759, date=Sat Sep 10 02:31:19 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=774324362765664256, text=Get your fashion fix and see what's happening during #NYFW with @TwitterFashion. #FollowFriday https://t.co/6mI0VPhriJ, name=twitter, retweet_count=154, date=Sat Sep 10 00:41:28 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=774276250407886848, text=New on Amazon Alexa! Use the Twitter Reader skill to hear trends, top Tweets, notifications & more! Just #AskAlexa. https://t.co/BvXRS4NiQu, name=twitter, retweet_count=622, date=Fri Sep 09 21:30:18 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=774067480784273408, text=Football fans: #TNF is LIVE on Twitter next Thursday! Go to Moments on game day to watch #NYJvsBUF. https://t.co/m9KLnfsrma, name=twitter, retweet_count=523, date=Fri Sep 09 07:40:43 IST 2016}
+2016-12-18 20:54:54 INFO  Consumer:95 - {id=774029912659243009, text=Space, the final frontier. These are the Tweets from those celebrating #StarTrek50
+🖖https://t.co/gAur5nwu4X https://t.co/cGwauQ5HdO, name=twitter, retweet_count=470, date=Fri Sep 09 05:11:26 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773973035221028865, text=RT @TwitterFashion: The best accessory for #NYFW? Tweets! See what's happening in fashion, from the shows to the streets, all week long. ht…, name=twitter, retweet_count=168, date=Fri Sep 09 01:25:25 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773955363188072448, text=The #Paralympics are underway — good luck to all the #Rio2016 athletes! https://t.co/ioQeZte9OJ https://t.co/w9B0VQ9Qia, name=twitter, retweet_count=313, date=Fri Sep 09 00:15:12 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773920594299498501, text=@yousuf_09 There is, Yousuf! Here's how to take control of read receipts 👇
+https://t.co/LWCsFWE768, name=twitter, retweet_count=56, date=Thu Sep 08 21:57:03 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773916770792910848, text=RT @periscopeco: See who's watching live! Now you can see when people you follow join your broadcast 👋 https://t.co/Qf0zhbwYNt, name=twitter, retweet_count=262, date=Thu Sep 08 21:41:51 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773913816740409345, text=New! Direct Messages are more dynamic than ever with read receipts, typing indicators, and web link previews. https://t.co/VEU92V5Gqj, name=twitter, retweet_count=8806, date=Thu Sep 08 21:30:07 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773659809660805120, text=Welcome to week 1, football fans! Make your Tweets a touchdown with new featured #Stickers all season long. https://t.co/z9XLjhgtd0, name=twitter, retweet_count=264, date=Thu Sep 08 04:40:47 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773644645129596928, text=From games to new devices, here's what happened at today's #AppleEvent: https://t.co/M8N02F4eHB https://t.co/HU31raqqIN, name=twitter, retweet_count=423, date=Thu Sep 08 03:40:31 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773633237134356481, text=@Zlatimeyer You had us at #hashtag 🙌, name=twitter, retweet_count=14, date=Thu Sep 08 02:55:11 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773552112714121216, text=It all begins with a Tweet! Learn how you can start or join any conversation on Twitter. #TwitterTips https://t.co/yCccvPyqRI, name=twitter, retweet_count=1296, date=Wed Sep 07 21:32:50 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773232947621003264, text=This #TravelTuesday, see why Mark Twain once wrote, "heaven was copied after Mauritius."
+🌴 https://t.co/2HJS8xhBqe https://t.co/gjHtHikxfK, name=twitter, retweet_count=233, date=Wed Sep 07 00:24:35 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=773229650096947200, text=@Nah_shelly Happy birthday, Nashelly! Here's another 🎈, name=twitter, retweet_count=15, date=Wed Sep 07 00:11:29 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=772130816591667201, text=We 👀 you, Jupiter. #JunoMission 
+https://t.co/YphJMZhTo0, name=twitter, retweet_count=1006, date=Sat Sep 03 23:25:06 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771843919902420992, text=RT @gov: Tracking #Hermine this Labor Day weekend? Follow this list for live updates: https://t.co/kjRnzsiyO3 #FollowFriday https://t.co/DI…, name=twitter, retweet_count=126, date=Sat Sep 03 04:25:05 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771828918273777664, text=Summer's almost over. What's your #FridayFeeling?, name=twitter, retweet_count=532, date=Sat Sep 03 03:25:28 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771764801152266241, text=Us too, @rihanna! 😂 https://t.co/YAhFZ00jdU, name=twitter, retweet_count=495, date=Fri Sep 02 23:10:41 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771535667193008130, text=RT @gov: This week 8 government officials answered your #AtoZika questions from Twitter. See how the conversation unfolded. https://t.co/In…, name=twitter, retweet_count=248, date=Fri Sep 02 08:00:12 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771459175293464576, text=RT @TwitterAlas: We're proud to launch our new Twitter emoji to celebrate #HispanicHeritageMonth! https://t.co/JozS0U4iOt, name=twitter, retweet_count=277, date=Fri Sep 02 02:56:15 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771398168525144064, text=@AN_TY_ We're glad you enjoyed your birthday surprise!🎈, name=twitter, retweet_count=17, date=Thu Sep 01 22:53:49 IST 2016}
+2016-12-18 20:54:55 INFO  Consumer:95 - {id=771057930711896064, text=RT @BuzzFeed: Watch @ShawnMendes let @KeithHabs and his Twitter fans make some weird decisions for him during the day https://t.co/D8d6hKiL…, name=twitter, retweet_count=16694, date=Thu Sep 01 00:21:50 IST 2016}
+2016-12-18 20:55:41 INFO  Consumer:109 - ========= Reading tweets ==========
+2016-12-18 20:55:43 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:55:43 INFO  Consumer:75 - User: BarackObama; Gathered 20 tweets
+2016-12-18 20:55:44 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:55:45 INFO  Consumer:75 - User: twitter; Gathered 20 tweets
+2016-12-18 20:56:54 INFO  Consumer:26 - ========= Indexing begins ==========
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781913425496662016, text=We need a fully functioning Supreme Court. Speak up if you agree it's time for a hearing and a vote: https://t.co/d6nmum1Ut7 #DoYourJob, name=BarackObama, retweet_count=939, date=Fri Sep 30 23:17:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781885668016332800, text=There has never been a more qualified nominee, Senate leaders. He deserves a fair hearing and a vote. #DoYourJob https://t.co/qtzcY3iwyl, name=BarackObama, retweet_count=3172, date=Fri Sep 30 21:27:24 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781613479589470208, text=It's the Senate's job to fairly consider Supreme Court nominees. Their refusal to do so is unacceptable: https://t.co/s8FdCa0tq6 #DoYourJob, name=BarackObama, retweet_count=1034, date=Fri Sep 30 03:25:49 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781579567358095360, text="Everybody gets sick." Check out what President Obama is doing to extend access to paid sick leave: https://t.co/gOAc2HAkQg #LeadOnLeave, name=BarackObama, retweet_count=630, date=Fri Sep 30 01:11:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781553914092990464, text=RT @ErnestMoniz: THIS is what a #CleanEnergy revolution looks like. New report out today → https://t.co/o13p5fPNDg #ActOnClimate https://t.…, name=BarackObama, retweet_count=291, date=Thu Sep 29 23:29:08 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781532250143719424, text=Never underestimate the strength and resilience of the American economy. https://t.co/OFTN2FlRtq, name=BarackObama, retweet_count=1303, date=Thu Sep 29 22:03:03 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781512097167384576, text=RT @Slate: President Obama answers Slate’s questions about his administration’s new rule extending paid sick leave: https://t.co/8AdEx431QN…, name=BarackObama, retweet_count=232, date=Thu Sep 29 20:42:58 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781189166126264321, text=The @OFA Truth Team makes it easy to stay informed. Join today: https://t.co/Q0axQYyJY1, name=BarackObama, retweet_count=318, date=Wed Sep 28 23:19:45 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781150531943211010, text=This is no accident—we're making a comeback because together, we've fought hard to support American families. https://t.co/LTk7SiTexP, name=BarackObama, retweet_count=3151, date=Wed Sep 28 20:46:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780875664953978881, text=We're better off than we were eight years ago. https://t.co/OwrTM3V78t, name=BarackObama, retweet_count=2590, date=Wed Sep 28 02:34:01 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780855089946726400, text=Household incomes are up, and the poverty rate is down across all demographics. https://t.co/cEIdPJuuvR, name=BarackObama, retweet_count=1028, date=Wed Sep 28 01:12:15 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780813534376538112, text=As long as Senate leaders keep refusing to do their jobs, @OFA supporters will continue speaking out against their… https://t.co/DkmDKpMhOw, name=BarackObama, retweet_count=2836, date=Tue Sep 27 22:27:08 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780791269060595712, text=Senate leaders have blocked Judge Garland's hearing for over six months now. Keep pushing: https://t.co/AGrUjJTnST #DoYourJob, name=BarackObama, retweet_count=822, date=Tue Sep 27 20:58:39 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780511904485605376, text=Important, tough conversations require solid facts. Get them from the @OFA Truth Team: https://t.co/5YH9zVeayn https://t.co/dD1EPgaA9W, name=BarackObama, retweet_count=951, date=Tue Sep 27 02:28:33 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780481839177748480, text=These are high praises from the American Bar Association—and yet, Senate leaders refuse to even consider Judge Garl… https://t.co/ryPFLZDAhY, name=BarackObama, retweet_count=2350, date=Tue Sep 27 00:29:05 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780458668122791936, text=Senate leaders' unprecedented obstruction of the Supreme Court nomination must end. Your voice matters: https://t.co/yhy8al1FK7 #DoYourJob, name=BarackObama, retweet_count=730, date=Mon Sep 26 22:57:01 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780435649971167232, text=The American people are waiting for Senate leaders to do their jobs. https://t.co/LNqAQpxMle, name=BarackObama, retweet_count=1427, date=Mon Sep 26 21:25:33 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779428314012200960, text=Senate leaders have blocked Judge Garland's hearing for over six months now. Keep pushing: https://t.co/peV6aCYswa #DoYourJob, name=BarackObama, retweet_count=770, date=Sat Sep 24 02:42:45 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779411464830320640, text=Senate leaders need to work for the good of the American people, not seek out political points. https://t.co/Tdx3xk6gYi, name=BarackObama, retweet_count=2120, date=Sat Sep 24 01:35:48 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779395875239895042, text=Watch President Obama and @CEAChair Jason Furman discuss the positive gains the American economy has made. https://t.co/J28Crn3WAP, name=BarackObama, retweet_count=430, date=Sat Sep 24 00:33:51 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779380553334140932, text=Here are 16 broken records we shouldn't be proud of. https://t.co/x98dGgEloW, name=BarackObama, retweet_count=4385, date=Fri Sep 23 23:32:58 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779363981177843712, text=Stay informed. Stay engaged. Speak up. Join the @OFA Truth Team: https://t.co/GVTL4HrTXw, name=BarackObama, retweet_count=396, date=Fri Sep 23 22:27:07 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779348972670517248, text=Another record broken: 16 months in a row of undeniable, record-breaking heat.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/qMAH7nFf5I #ActOnClimate, name=BarackObama, retweet_count=1426, date=Fri Sep 23 21:27:29 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779082523963863041, text=Happy #FirstDayofFall. https://t.co/ix02MNuOud, name=BarackObama, retweet_count=14290, date=Fri Sep 23 03:48:43 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779068216018468864, text=We can't sit idly by. Climate change is likely to threaten our national security—we must act now.… https://t.co/6QQmpf27W0, name=BarackObama, retweet_count=1526, date=Fri Sep 23 02:51:51 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779032515302400000, text=Judge Garland is highly qualified for the bench—even some Senate leaders who are now blocking his hearing have agre… https://t.co/D5ScOCikVl, name=BarackObama, retweet_count=2533, date=Fri Sep 23 00:30:00 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779010876074438657, text=Senate leaders' blind obstruction of Judge Garland's nomination sets a dangerous precedent. We can't stand idly by. https://t.co/k76I6DCDRI, name=BarackObama, retweet_count=746, date=Thu Sep 22 23:04:00 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778986879249100800, text=Enough of the shameless partisanship, Senators. #DoYourJob and fill the Supreme Court vacancy. https://t.co/vIQY0bivo4, name=BarackObama, retweet_count=2321, date=Thu Sep 22 21:28:39 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778684733093912576, text=Help keep the pressure on Senate leaders to give Judge Garland a fair hearing before their next recess. https://t.co/lkLz4yidaw #DoYourJob, name=BarackObama, retweet_count=753, date=Thu Sep 22 01:28:02 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778653339751899136, text=The American Bar Association gave Judge Garland its highest possible rating. He deserves a hearing and a vote.… https://t.co/FUVmGKdZgB, name=BarackObama, retweet_count=3171, date=Wed Sep 21 23:23:17 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778633396998156288, text="Their right to inherit a healthy planet is a sacred responsibility." —President Obama #ActOnClimate https://t.co/MYumi6xiIW, name=BarackObama, retweet_count=1317, date=Wed Sep 21 22:04:02 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778609212599316480, text=Communities are already experiencing the effects of climate change—we can't afford not to act. Take a look:… https://t.co/sEjVzKqhsw, name=BarackObama, retweet_count=1758, date=Wed Sep 21 20:27:56 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778315562623438848, text=As the #UNGA meets, take a look at the progress we've made thanks to American leadership in the world. https://t.co/b4T0zGccLH, name=BarackObama, retweet_count=838, date=Wed Sep 21 01:01:05 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778239848566194176, text=LIVE: President Obama is speaking at the 71st Session of the United Nations General Assembly. https://t.co/J8cm9QquER #UNGA, name=BarackObama, retweet_count=639, date=Tue Sep 20 20:00:13 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=777891139848253441, text=LIVE: President Obama is delivering a statement in New York. https://t.co/MJUr8C84Wd, name=BarackObama, retweet_count=666, date=Mon Sep 19 20:54:34 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776909671055568896, text=President Obama commemorates #HispanicHeritageMonth in an address to @CHCI. https://t.co/oTVX7zOyFD, name=BarackObama, retweet_count=1271, date=Sat Sep 17 03:54:34 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776894274055000064, text=Senate leaders are putting politics above their basic responsibility to hold a hearing for Judge Garland. #DoYourJob https://t.co/N7vH2ncwmb, name=BarackObama, retweet_count=3516, date=Sat Sep 17 02:53:23 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776872058089267201, text=Six months is long enough, senators. It's time to #DoYourJob and give Judge Garland a hearing. https://t.co/A2Yedmhuw6, name=BarackObama, retweet_count=942, date=Sat Sep 17 01:25:06 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776856997195022336, text=RT @OFA: Friendly reminder for Senate leaders on #ConstitutionDay2016: https://t.co/my5zUWxb6j, name=BarackObama, retweet_count=354, date=Sat Sep 17 00:25:16 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776834111566516224, text=The Supreme Court should remain above partisan politics, Senator. https://t.co/DlWud7Rh3K #DoYourJob https://t.co/Wjd96qn9Hf, name=BarackObama, retweet_count=1207, date=Fri Sep 16 22:54:19 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776811448651558912, text=Progress starts with a conversation. Make sure you have the facts to get yours started: https://t.co/MxWdiJxz4o https://t.co/Q3iP0Jwg1t, name=BarackObama, retweet_count=950, date=Fri Sep 16 21:24:16 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776532109498339328, text=When we protect our lands and waters, it helps us protect our climate for future generations. #ActOnClimate https://t.co/8tygZI0TDR, name=BarackObama, retweet_count=4587, date=Fri Sep 16 02:54:16 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776493584572780545, text="There is no 'election year' exception in Article II." Sen. Leahy calls on senators to give Judge Garland a hearing: https://t.co/VjxClMdqUg, name=BarackObama, retweet_count=1312, date=Fri Sep 16 00:21:11 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776460530584133633, text=President Obama just made history by protecting nearly 5,000 square miles off the New England coast. https://t.co/i8MAFYU60k #OurOcean, name=BarackObama, retweet_count=2583, date=Thu Sep 15 22:09:51 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776439380281925632, text=LIVE: President Obama is speaking at the 2016 Our Ocean Conference. https://t.co/ALK46jhUpw #OurOcean, name=BarackObama, retweet_count=392, date=Thu Sep 15 20:45:48 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776426790109650944, text=RT @WhiteHouse: BREAKING: @POTUS will designate the first-ever marine monument in the Atlantic Ocean:
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/t33G5z2QpK https://t.co/…, name=BarackObama, retweet_count=1058, date=Thu Sep 15 19:55:46 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776160016483033088, text=We need nine justices for a fully functioning Supreme Court—and editorial boards across the country agree. https://t.co/WD42qmgXpO, name=BarackObama, retweet_count=1502, date=Thu Sep 15 02:15:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776134671415451648, text=RT @cspan: .@RepJohnLewis on #GunViolence: "The time for silence is over." https://t.co/zUUX02jNnN, name=BarackObama, retweet_count=702, date=Thu Sep 15 00:35:00 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776115966161793025, text=We can't let Senate leaders ignore their constitutional responsibilities. https://t.co/ExY5wZcWi6 #DoYourJob https://t.co/IwO7CAoVm2, name=BarackObama, retweet_count=1494, date=Wed Sep 14 23:20:40 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776098253800484866, text=Stay informed. Stay engaged. Speak up. Join the @OFA Truth Team: https://t.co/b0eae4PXDX, name=BarackObama, retweet_count=353, date=Wed Sep 14 22:10:17 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776079054512369668, text=The U.S. is on track to hit two million solar installations within the next two years. Momentum is building: https://t.co/dTb4M3J4MY, name=BarackObama, retweet_count=1745, date=Wed Sep 14 20:54:00 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775804899049078784, text=Time is almost up for Senate leaders to do the right thing and fill the #SCOTUS vacancy. https://t.co/rPbzUkZAUE #DoYourJob, name=BarackObama, retweet_count=592, date=Wed Sep 14 02:44:36 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775788508841517057, text=Median household income: ⬆
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Poverty rate: ⬇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Uninsured rate: ⬇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Middle-class economics works. https://t.co/ThPXBSux09, name=BarackObama, retweet_count=3841, date=Wed Sep 14 01:39:28 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775773838403436544, text=In 2015, we saw the fastest household income growth on record and the largest drop in the poverty rate since 1968. https://t.co/Kyw1vuhont, name=BarackObama, retweet_count=1487, date=Wed Sep 14 00:41:10 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775729726107201536, text=RT @WhiteHouse: Fastest household income growth on record ✓ 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing.. 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Largest drop in poverty rate since 1968 ✓ 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/qK505KUeuP https://…, name=BarackObama, retweet_count=1055, date=Tue Sep 13 21:45:53 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775710721027952640, text=The Supreme Court must remain above partisanship. Senate leaders: The time to fill the vacant seat is now. https://t.co/7mmbuXjsPO, name=BarackObama, retweet_count=3488, date=Tue Sep 13 20:30:22 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775429955253481473, text=ICYMI: This is a really big deal. https://t.co/raNeUV5fRd, name=BarackObama, retweet_count=2601, date=Tue Sep 13 01:54:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775407521167126528, text=Vice President Biden speaks on the "dangerous precedent" Senate leaders are setting by refusing to do their jobs. https://t.co/W1A7Oyb4gB, name=BarackObama, retweet_count=1596, date=Tue Sep 13 00:25:34 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775387720285683712, text=These are records we can't keep breaking. We must work together to #ActOnClimate. https://t.co/sTxNR10sjK, name=BarackObama, retweet_count=3094, date=Mon Sep 12 23:06:53 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775350531812265984, text=Meaningful action on climate change can't wait. President Obama explains why in this @nytimes interview. https://t.co/zbaDcpztIW, name=BarackObama, retweet_count=1284, date=Mon Sep 12 20:39:06 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774353170159968259, text=We need to keep up efforts to fight climate change at every level—locally, nationally, globally. #ActOnClimate https://t.co/L10qdkgPDg, name=BarackObama, retweet_count=3551, date=Sat Sep 10 02:35:57 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774340573310353408, text=RT @FactsOnClimate: BREAKING: A new strategy to harness the power of wind means more jobs, less pollution: https://t.co/s0I0CmalFL https://…, name=BarackObama, retweet_count=725, date=Sat Sep 10 01:45:53 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774325506065985536, text=Senate leaders are back in session. Keep the pressure high—call out their obstructionism. https://t.co/eThTUbIMH0 #DoYourJob, name=BarackObama, retweet_count=636, date=Sat Sep 10 00:46:01 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774303257023963136, text=There's no need to overcomplicate the process. #DoYourJob https://t.co/QgaNgKNBzJ, name=BarackObama, retweet_count=1315, date=Fri Sep 09 23:17:36 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774263324032790528, text=We must take bold steps now—climate change is already impacting millions of people. https://t.co/ZWBgt0XEWt #ActOnClimate, name=BarackObama, retweet_count=1356, date=Fri Sep 09 20:38:56 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773969076171309056, text=Congress is back, and they have important work to do before their next recess. Make sure you say where you stand: https://t.co/Ll1Croa3Ui, name=BarackObama, retweet_count=904, date=Fri Sep 09 01:09:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773952874833321984, text=RT @VPLive: "Every nominee, including Kennedy in an election year—got an up or down vote" —@VP on serving as Senate Judiciary Chairman or R…, name=BarackObama, retweet_count=312, date=Fri Sep 09 00:05:19 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773938870421368832, text=Stay in the loop with important facts. Join @OFA's Truth Team: https://t.co/2KkNrPgHPL https://t.co/FDOocrpQvU, name=BarackObama, retweet_count=476, date=Thu Sep 08 23:09:40 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773638787549188096, text=Rising sea levels are already flooding homes and roads along America's coasts. The time to #ActOnClimate is now. https://t.co/OplSsyTHEX, name=BarackObama, retweet_count=1835, date=Thu Sep 08 03:17:15 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773612008889421824, text=Fewer Americans are uninsured than ever before, thanks to #Obamacare. https://t.co/tFbGtiPzWL, name=BarackObama, retweet_count=837, date=Thu Sep 08 01:30:50 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773578682350702592, text=Congress is back from recess. Help put the pressure on Senate leaders to give Judge Garland a hearing: https://t.co/F4eATpElMT #DoYourJob, name=BarackObama, retweet_count=798, date=Wed Sep 07 23:18:24 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773549731901349888, text=The process is clear. The Supreme Court and American people are waiting for Senate leaders to get to work. https://t.co/1YzeZLIcAT, name=BarackObama, retweet_count=3178, date=Wed Sep 07 21:23:22 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773279043726618624, text=Senate leaders have 32 days before their next recess to give Judge Garland a hearing and a vote. Call them out now: https://t.co/IV1AGOEDag, name=BarackObama, retweet_count=1024, date=Wed Sep 07 03:27:45 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773254286855712769, text=The Paris Climate Agreement is a big deal in the fight against climate change—and now, a big step closer to reality. https://t.co/5vd6n0BFgG, name=BarackObama, retweet_count=1182, date=Wed Sep 07 01:49:23 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773233683608199168, text=The United States is leading the way in the fight to #ActOnClimate. https://t.co/vkUMjg6XKc, name=BarackObama, retweet_count=572, date=Wed Sep 07 00:27:30 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773203627125055488, text=Conservation not only protects diverse lands and species, it's also an important part of battling climate change. https://t.co/gjvhHNPFKL, name=BarackObama, retweet_count=1230, date=Tue Sep 06 22:28:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773174849346768896, text="When we protect our lands, it helps us protect the climate for the future." —President Obama #ActOnClimate https://t.co/qdoCgYPQom, name=BarackObama, retweet_count=1290, date=Tue Sep 06 20:33:43 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=772827439126966272, text=President Obama has a message for America's workers today—check it out: https://t.co/KlPj1YGeQ4 #LaborDay https://t.co/qzbHAfRXNs, name=BarackObama, retweet_count=861, date=Mon Sep 05 21:33:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=772117278464679937, text=In the weekly address, President Obama commemorates the labor movement that helped build this country. https://t.co/JsZvcpTyee, name=BarackObama, retweet_count=1100, date=Sat Sep 03 22:31:19 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=772103576697049089, text=RT @WhiteHouse: It's official: The U.S. and China have entered into the #ParisAgreement: https://t.co/RQIMfGp7rg https://t.co/7IPK6WAeZD, name=BarackObama, retweet_count=2898, date=Sat Sep 03 21:36:52 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771836881495584768, text=Recess is almost over, and editorial boards across the country are calling for Senate leaders to do their jobs. https://t.co/Pr78WaT0V2, name=BarackObama, retweet_count=2539, date=Sat Sep 03 03:57:07 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771799796344512512, text=When Americans stand together, there's no challenge too great to solve—not even climate change. #ActOnClimate today: https://t.co/5mqlv3ZXas, name=BarackObama, retweet_count=694, date=Sat Sep 03 01:29:45 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771776767581360128, text=Unemployment: ⬇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Deficits: ⬇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Uninsured rate: ⬇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Jobs: +15.1 million https://t.co/mWcAgfM8zn, name=BarackObama, retweet_count=2704, date=Fri Sep 02 23:58:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771755042391097345, text=It's been a long road, but we're far better off than we were eight years ago. https://t.co/o8UdtCezYE, name=BarackObama, retweet_count=2443, date=Fri Sep 02 22:31:55 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771727047710412800, text=The economy added 151,000 jobs in August—extending the longest streak of total job growth on record., name=BarackObama, retweet_count=2392, date=Fri Sep 02 20:40:40 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771454141801439233, text=Senate leaders return from recess next week. They need to get to work on a vote for Judge Garland—say so. https://t.co/pdRYkz7kFV #DoYourJob, name=BarackObama, retweet_count=849, date=Fri Sep 02 02:36:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771430763069788160, text=Recess is almost over, and editorial boards across the country are calling for Senate leaders to do their jobs. https://t.co/ScbkMVcovu, name=BarackObama, retweet_count=2712, date=Fri Sep 02 01:03:21 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771394007196798976, text=RT @WhiteHouse: "There's no conflict between a healthy economy and a healthy planet." —@POTUS https://t.co/kLOKgyiEvf https://t.co/GL2z2FHN…, name=BarackObama, retweet_count=957, date=Thu Sep 01 22:37:17 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771377146820300800, text=Stay in the loop with important facts, brought to you weekly. Join @OFA's Truth Team: https://t.co/YNdzkLi9cb, name=BarackObama, retweet_count=342, date=Thu Sep 01 21:30:17 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771070737624866816, text=Senate leaders need to hear you expect a vote on Judge Garland when recess ends—say you'll let them know: https://t.co/ETmcpsRRY6 #DoYourJob, name=BarackObama, retweet_count=776, date=Thu Sep 01 01:12:44 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781908744485548033, text=We've updated our Terms & Privacy Policy. Check out what's new:
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..✔️https://t.co/Z9WvxIi0Yt
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..✔️https://t.co/uVZBuWspC3
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/tSxtVPmlLk, name=twitter, retweet_count=302, date=Fri Sep 30 22:59:06 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781708851187949568, text=Next Thursday watch @AZCardinals vs @49ers LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCivVgPB on game day.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1PHoE, name=twitter, retweet_count=259, date=Fri Sep 30 09:44:48 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781678684608536576, text=Reading through all of these #HowTwitterHasChangedMyLife Tweets like https://t.co/0Vp9oxkZBv, name=twitter, retweet_count=449, date=Fri Sep 30 07:44:55 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781560332938387457, text=No matter how you like your cup of joe, #NationalCoffeeDay is worth celebrating!
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..☕️ https://t.co/4PRGl76ypO https://t.co/oja341aIAo, name=twitter, retweet_count=579, date=Thu Sep 29 23:54:38 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781541433966637056, text=#TNF will be back streaming LIVE on Twitter next week: @AZCardinals vs @49ers. Tonight, catch the @MiamiDolphins vs… https://t.co/pFBQCXGeGn, name=twitter, retweet_count=268, date=Thu Sep 29 22:39:32 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781279748542586886, text=Tonight: welcome back to the #Empire. Tweet with the cast during the show this #EmpireWednesday to unlock fresh emo… https://t.co/uSqWEvjScy, name=twitter, retweet_count=457, date=Thu Sep 29 05:19:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781253380593287168, text=RT @TwitterMovies: Wands at the ready, the new trailer for #FantasticBeasts is here. https://t.co/JG05i48bDA, name=twitter, retweet_count=82, date=Thu Sep 29 03:34:55 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781231282768314369, text=Express yourself with more than just words. Get creative with polls and #Stickers. #TwitterTips https://t.co/G3IQWi3XCp, name=twitter, retweet_count=248, date=Thu Sep 29 02:07:07 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781201773889413120, text=Righteous move, @StephenAtHome 👊 https://t.co/2N5JI8IJiS, name=twitter, retweet_count=90, date=Thu Sep 29 00:09:51 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781160717378588672, text=Need some tips for making a great Moment? Learn more! ⬇️
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/uk9v6I2znW, name=twitter, retweet_count=390, date=Wed Sep 28 21:26:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=781160119358763008, text=For everyone who wants to make a Moment – starting today you can! Creators everywhere can now tell stories with Twe… https://t.co/ORdleOt3un, name=twitter, retweet_count=4685, date=Wed Sep 28 21:24:20 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780892377313443840, text=Take a look back at the first of the US presidential #debates between @HillaryClinton and @realDonaldTrump:… https://t.co/3FlO5Udnvy, name=twitter, retweet_count=253, date=Wed Sep 28 03:40:25 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780862250168881152, text=RT @TheNextWeb: Twitter's new feature makes it dead simple to register to vote https://t.co/zCMNDFMHQk #iregistered https://t.co/lnt0HWQMzS, name=twitter, retweet_count=102, date=Wed Sep 28 01:40:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780811794591866880, text=To get your voter registration information, tap below to send your five digit zip code in a private message to @gov. https://t.co/VpyIkmbfxH, name=twitter, retweet_count=416, date=Tue Sep 27 22:20:13 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780809477754789888, text=Twitter is helping you register to vote! Send a Direct Message to @gov to get started: https://t.co/1DgGG9i71o https://t.co/shckBNcT3l, name=twitter, retweet_count=760, date=Tue Sep 27 22:11:00 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780762682504859648, text=RT @gov: It's National Voter Registration Day. Have you registered to vote? Let the world know! Tweet with #iRegistered. https://t.co/hdPe2…, name=twitter, retweet_count=501, date=Tue Sep 27 19:05:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780602908135923712, text=The biggest moments, Tweets, and topics on Twitter from the first of the US presidential #debates. https://t.co/9mNWW0HkkQ, name=twitter, retweet_count=195, date=Tue Sep 27 08:30:10 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780600671095566336, text=The #debates continue, LIVE on Twitter. Stay tuned for the vice presidential debate streaming LIVE on Tuesday, 10/4. https://t.co/l2fPw8j3O6, name=twitter, retweet_count=224, date=Tue Sep 27 08:21:17 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780573748663427072, text=Streaming LIVE:
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..@HillaryClinton
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..#debates  
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..@realDonaldTrump
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Watch on Twitter NOW!
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/l2fPw8j3O6, name=twitter, retweet_count=696, date=Tue Sep 27 06:34:18 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780557835180449792, text=RT @gov: ONE HOUR TO GO! Retweet if you're ready to watch the #debates streaming LIVE on Twitter!
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/Amu2z9SmqF, name=twitter, retweet_count=197, date=Tue Sep 27 05:31:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780542562679398400, text=Streaming LIVE in two hours:
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..@HillaryClinton
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..#debates 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..@realDonaldTrump
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..#GoLive on Twitter ⬇️
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/l2fPw8j3O6, name=twitter, retweet_count=465, date=Tue Sep 27 04:30:23 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780445616782516224, text=RT @gov: Tonight!
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..The first presidential debate is LIVE on Twitter. Go to https://t.co/6N9kG0RZrN or ⚡️Moments at 8:30pm ET and Tweet with…, name=twitter, retweet_count=304, date=Mon Sep 26 22:05:09 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780396679535005696, text=Tonight: the first of the US presidential #debates will be streaming LIVE on Twitter. Tap ⬇️ to watch at 8:30pm ET. https://t.co/l2fPw8j3O6, name=twitter, retweet_count=1538, date=Mon Sep 26 18:50:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780211445531160576, text=RT @gov: 24 hours away.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Watch the US presidential #debates LIVE on Twitter! Go to ⚡️Moments or https://t.co/6N9kG19AQn. https://t.co/mMgRx…, name=twitter, retweet_count=270, date=Mon Sep 26 06:34:38 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780127417071316993, text=RT @bpolitics: The presidential #debates will be streamed LIVE on Twitter. Coverage begins Monday at 8:30pm ET. Join us! https://t.co/gF4jM…, name=twitter, retweet_count=333, date=Mon Sep 26 01:00:44 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=780055140476649472, text=Tomorrow night.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..The US presidential #debates LIVE on Twitter. Go to ⚡️ Moments or https://t.co/yn4Jkmxb1l to watch.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/l2fPw8j3O6, name=twitter, retweet_count=730, date=Sun Sep 25 20:13:32 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779771224691920896, text=#APeoplesJourney: a museum 100 years in the making, step inside today's historic opening of the @NMAAHC. https://t.co/0QVGYkSnct, name=twitter, retweet_count=832, date=Sun Sep 25 01:25:22 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779738434181017600, text=RT @chancetherapper: I spoke w @twitter last night about #MCD #MagColoringDay https://t.co/5RvvB5kt48, name=twitter, retweet_count=2181, date=Sat Sep 24 23:15:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779449443670032384, text=#TNF week 3 is in the 📚.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Rewind to the best moments from last night's LIVE matchup between the @HoustonTexans and… https://t.co/7H5TYXlmpu, name=twitter, retweet_count=243, date=Sat Sep 24 04:06:43 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779372393655447552, text=Watch the US presidential #debates LIVE on Twitter! Go to ⚡ Moments or https://t.co/yn4Jkmxb1l on Monday, 9/26 at 8… https://t.co/FNwYD7Wp4G, name=twitter, retweet_count=609, date=Fri Sep 23 23:00:33 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779160802548867072, text=We've got a bye next week! Tune in to #TNF Thursday, October 6th and catch @AZCardinals vs @49ers LIVE on Twitter.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=228, date=Fri Sep 23 08:59:46 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779139495648047104, text=The second half of #HOUvsNE is kicking off now, LIVE on Twitter.  #TNF 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=138, date=Fri Sep 23 07:35:06 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779108361883176960, text=#TNF is back.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Tap 👇 now to catch the @HoustonTexans take on the @Patriots LIVE on Twitter!
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=281, date=Fri Sep 23 05:31:23 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779082871650660353, text=RT @NFL: 🏈🏈SOOOOOOOON!🏈🏈
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..@HoustonTexans. @Patriots.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..💻📱: https://t.co/cwnT5bPB2K 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..📺: @NFLonCBS #TNF #HOUvsNE, name=twitter, retweet_count=439, date=Fri Sep 23 03:50:05 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779062901554360320, text=@rowdELife @NFLTNF Yes! #HOUvsNE kicks off on Twitter at 8pm ET. Tap below to watch! ⬇️
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=16, date=Fri Sep 23 02:30:44 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779033905412177920, text=Fall is finally here! Love it or hate it, here's what people are saying about the #FirstDayofFall.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..🍂… https://t.co/E89jSEUO0q, name=twitter, retweet_count=517, date=Fri Sep 23 00:35:31 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779017477967663104, text=GAME DAY.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..The @HoustonTexans take on the @Patriots tonight, LIVE on Twitter! Go to ⚡️ Moments or watch 👇 at 8pm ET.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=208, date=Thu Sep 22 23:30:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=779003037218025472, text=RT @gov: Your official hashtag for the 2016 US Presidential Debates has arrived: #debates! https://t.co/aNMLtai25b, name=twitter, retweet_count=267, date=Thu Sep 22 22:32:51 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778985385242218496, text=TONIGHT! Watch @HoustonTexans vs @Patriots LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 at 8pm ET. https://t.co/OgzSCu50x3, name=twitter, retweet_count=265, date=Thu Sep 22 21:22:43 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778733090130784256, text=Unleash the Lyons, #Empire is back! Tonight, we're crowning Cookie with a new emoji. Now slay! https://t.co/LCGq1RAsv0, name=twitter, retweet_count=575, date=Thu Sep 22 04:40:11 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778659869574299648, text=@comms_kelly It's definitely one of our favorites too, Lauren! 😹, name=twitter, retweet_count=15, date=Wed Sep 21 23:49:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778650086481866752, text=RT @TwitterSports: Thursday Night Football is LIVE on Twitter Thursday at 8pm ET! Retweet for a reminder to watch on game day. #HOUvsNE htt…, name=twitter, retweet_count=4349, date=Wed Sep 21 23:10:21 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778647724547641344, text=@IainRoster Cheers, Iain! Happy Birthday!🎈, name=twitter, retweet_count=17, date=Wed Sep 21 23:00:58 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778645733809332225, text=@Johnmarc Thanks, Jonathan! What's your favorite new feature?, name=twitter, retweet_count=16, date=Wed Sep 21 22:53:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778625809783197696, text=Get more of what you love. Follow the accounts you care about to see what's happening in their world. #TwitterTips https://t.co/oI7Qp3ZY7d, name=twitter, retweet_count=210, date=Wed Sep 21 21:33:53 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778581426123919360, text=RT @gov: All of the 2016 US presidential #debates will be streamed LIVE on Twitter through our partnership with @bpolitics https://t.co/XI0…, name=twitter, retweet_count=809, date=Wed Sep 21 18:37:31 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778397896055984128, text=@anneseon It's never too late, Rose! Happy Birthday! 🎈, name=twitter, retweet_count=20, date=Wed Sep 21 06:28:15 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778368675606704128, text=The future of gender equality is now. See how #HeForShe has been what's happening on Twitter for 2 years:… https://t.co/SnayLPvsDf, name=twitter, retweet_count=745, date=Wed Sep 21 04:32:08 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778351731532967936, text=@mohammadsohaib3 You're welcome, Muhammad! Gotta keep things comfortable. 😎, name=twitter, retweet_count=15, date=Wed Sep 21 03:24:48 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778338298175434752, text=Head to Bangkok this #TravelTuesday to visit temples, eat street food, and take in the breathtaking views.… https://t.co/hOD4WeW103, name=twitter, retweet_count=153, date=Wed Sep 21 02:31:25 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778315350689521664, text=With less than 50 days to go, tap ⚡️ Follow to see live US election updates in your timeline through Election Day. https://t.co/OzuxDAk0Wm, name=twitter, retweet_count=159, date=Wed Sep 21 01:00:14 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778295499140898816, text=@dmncbrm TWO. MORE. DAYS. #TNF, name=twitter, retweet_count=12, date=Tue Sep 20 23:41:21 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778285984743952384, text=@4ShellysFinds Thanks, Shelly! We're glad you love it!, name=twitter, retweet_count=11, date=Tue Sep 20 23:03:33 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778270419694395392, text=Watch Thursday Night Football LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/0MmLWlUigH, name=twitter, retweet_count=134, date=Tue Sep 20 22:01:42 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778251134192332804, text=RT @VanityFair: Emilia Clarke, Jon Voight, @tatianamaslany, @SophieT & more dramatically read @katyperry tweets. https://t.co/RlbjIgmNMo, name=twitter, retweet_count=884, date=Tue Sep 20 20:45:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778043537254330369, text=Obrigado to all of the incredible #Rio2016 athletes who participated in the #Paralympics — see you in 2020! https://t.co/h8Mvd8oKX8, name=twitter, retweet_count=466, date=Tue Sep 20 07:00:09 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=778026905169596417, text=@RobynMatza We're glad to have you, Robyn! Happy 9⃣️ years!, name=twitter, retweet_count=10, date=Tue Sep 20 05:54:03 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=777980625005326336, text=See how the stars answered your meaningful Q's last night at the #Emmys with #SmartGirlsAsk: https://t.co/oGMmSMgOys https://t.co/hKEfqY1fDf, name=twitter, retweet_count=160, date=Tue Sep 20 02:50:09 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=777915304261193728, text=Say more about what's happening! Rolling out now: photos, videos, GIFs, polls, and Quote Tweets no longer count tow… https://t.co/SRmsuks2ru, name=twitter, retweet_count=18152, date=Mon Sep 19 22:30:36 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=777893807652114432, text=RT @TwitterMovies: Here's how to see a custom @KevinHart4real emoji in your Tweets & Periscope broadcasts: #KevinHartWhatNow #KHWhatNow htt…, name=twitter, retweet_count=125, date=Mon Sep 19 21:05:10 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=777666077039865856, text=Thursday: watch @HoustonTexans vs @Patriots LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game da… https://t.co/7Qgoyi2VLu, name=twitter, retweet_count=294, date=Mon Sep 19 06:00:15 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=777649810006343680, text=Break a leg tonight, @jimmykimmel! Your #JimmyKimmel emoji is sure to make the #Emmys best-dressed list. https://t.co/d3p0ScyG2n, name=twitter, retweet_count=277, date=Mon Sep 19 04:55:37 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776865821775663105, text=We've partnered w/ @smrtgrls and @TelevisionAcad to ask your Q's on the #Emmys red carpet — share w/ #SmartGirlsAsk! https://t.co/fiLuIOnlE2, name=twitter, retweet_count=205, date=Sat Sep 17 01:00:20 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776626333447094272, text=Thanks for watching #TNF LIVE on Twitter! Catch the @Patriots vs. @HoustonTexans next Thursday right here 👇 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=397, date=Fri Sep 16 09:08:41 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776603561425641472, text=One half down. One to go. Tune in now to catch the rest of #TNF LIVE on Twitter 👇 https://t.co/eCsgy1y604, name=twitter, retweet_count=193, date=Fri Sep 16 07:38:12 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776571584039399424, text=Thursday Night Football on Twitter is here! Watch #TNF LIVE NOW 👇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/eCsgy1y604, name=twitter, retweet_count=477, date=Fri Sep 16 05:31:08 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776526169785053184, text=#TNF  is LIVE on Twitter tonight! Who you got?
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..Watch LIVE at 8pm ET ➡️ https://t.co/vHwCiwcRH9, name=twitter, retweet_count=158, date=Fri Sep 16 02:30:40 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776484512444276741, text=TONIGHT! #TNF kicks off LIVE on Twitter! Go to ⚡️ Moments or watch LIVE at 8pm ET 👇 https://t.co/eCsgy1y604, name=twitter, retweet_count=374, date=Thu Sep 15 23:45:08 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776458074244673537, text=RT @TwitterSports: Thursday Night Football is LIVE on Twitter! Retweet for a reminder to watch #NYJvsBUF on game day at 8pm ET. https://t.c…, name=twitter, retweet_count=1664, date=Thu Sep 15 22:00:05 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776156812764512257, text=Watch Thursday Night Football LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/jRd6gB2Luf, name=twitter, retweet_count=230, date=Thu Sep 15 02:02:59 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776091152667676673, text=See something on your timeline you want to share with your followers? Retweet! #TwitterTips https://t.co/Enmg9FwJeW, name=twitter, retweet_count=347, date=Wed Sep 14 21:42:04 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=776044283878969344, text=📺 👀 We're launching apps for Apple TV, Amazon Fire TV, and Xbox One, featuring live streaming video on Twitter! https://t.co/aBdfV5vqkV, name=twitter, retweet_count=1489, date=Wed Sep 14 18:35:50 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775834678251048961, text=@TheRealStanLee You got it! #Excelsior, name=twitter, retweet_count=32, date=Wed Sep 14 04:42:56 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775826085543972864, text=Take a #TravelTuesday hike and explore the red rock wonderland of @ArchesNPS.
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/8IdL21oUHB https://t.co/Z3GpXqPjP0, name=twitter, retweet_count=151, date=Wed Sep 14 04:08:47 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775813028654612480, text=We've partnered w/ @smrtgrls and @TelevisionAcad to ask your Q's on the #Emmys red carpet — Tweet w/ #SmartGirlsAsk! https://t.co/id4qsTwEcU, name=twitter, retweet_count=175, date=Wed Sep 14 03:16:54 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775767615029415936, text=RT @periscopeco: Share the Periscope love — now on iMessage and iPad https://t.co/TjFfeSOnhW, name=twitter, retweet_count=175, date=Wed Sep 14 00:16:27 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775748446540050432, text=Thursday: watch @nyjets vs @buffalobills LIVE on Twitter! Go to ⚡️ Moments or https://t.co/vHwCiwcRH9 on game day. https://t.co/llGdbmIf6a, name=twitter, retweet_count=847, date=Tue Sep 13 23:00:17 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775348462158163969, text=Don't miss a live moment! Turn on notifications to join in when someone you follow shares live video on Twitter. https://t.co/dddk81GuCH, name=twitter, retweet_count=838, date=Mon Sep 12 20:30:53 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=775043801643712512, text=People around the world honor 9/11 victims 15 years after the attacks. #NeverForget https://t.co/lc8wD4QlCO, name=twitter, retweet_count=1786, date=Mon Sep 12 00:20:16 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774352006576164865, text=RT @vine: Friday Feeling 😎 https://t.co/ZckJ7swo4w, name=twitter, retweet_count=4759, date=Sat Sep 10 02:31:19 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774324362765664256, text=Get your fashion fix and see what's happening during #NYFW with @TwitterFashion. #FollowFriday https://t.co/6mI0VPhriJ, name=twitter, retweet_count=154, date=Sat Sep 10 00:41:28 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774276250407886848, text=New on Amazon Alexa! Use the Twitter Reader skill to hear trends, top Tweets, notifications & more! Just #AskAlexa. https://t.co/BvXRS4NiQu, name=twitter, retweet_count=622, date=Fri Sep 09 21:30:18 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774067480784273408, text=Football fans: #TNF is LIVE on Twitter next Thursday! Go to Moments on game day to watch #NYJvsBUF. https://t.co/m9KLnfsrma, name=twitter, retweet_count=523, date=Fri Sep 09 07:40:43 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=774029912659243009, text=Space, the final frontier. These are the Tweets from those celebrating #StarTrek50
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..🖖https://t.co/gAur5nwu4X https://t.co/cGwauQ5HdO, name=twitter, retweet_count=470, date=Fri Sep 09 05:11:26 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773973035221028865, text=RT @TwitterFashion: The best accessory for #NYFW? Tweets! See what's happening in fashion, from the shows to the streets, all week long. ht…, name=twitter, retweet_count=168, date=Fri Sep 09 01:25:25 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773955363188072448, text=The #Paralympics are underway — good luck to all the #Rio2016 athletes! https://t.co/ioQeZte9OJ https://t.co/w9B0VQ9Qia, name=twitter, retweet_count=313, date=Fri Sep 09 00:15:12 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773920594299498501, text=@yousuf_09 There is, Yousuf! Here's how to take control of read receipts 👇
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/LWCsFWE768, name=twitter, retweet_count=56, date=Thu Sep 08 21:57:03 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773916770792910848, text=RT @periscopeco: See who's watching live! Now you can see when people you follow join your broadcast 👋 https://t.co/Qf0zhbwYNt, name=twitter, retweet_count=262, date=Thu Sep 08 21:41:51 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773913816740409345, text=New! Direct Messages are more dynamic than ever with read receipts, typing indicators, and web link previews. https://t.co/VEU92V5Gqj, name=twitter, retweet_count=8806, date=Thu Sep 08 21:30:07 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773659809660805120, text=Welcome to week 1, football fans! Make your Tweets a touchdown with new featured #Stickers all season long. https://t.co/z9XLjhgtd0, name=twitter, retweet_count=264, date=Thu Sep 08 04:40:47 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773644645129596928, text=From games to new devices, here's what happened at today's #AppleEvent: https://t.co/M8N02F4eHB https://t.co/HU31raqqIN, name=twitter, retweet_count=423, date=Thu Sep 08 03:40:31 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773633237134356481, text=@Zlatimeyer You had us at #hashtag 🙌, name=twitter, retweet_count=14, date=Thu Sep 08 02:55:11 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773552112714121216, text=It all begins with a Tweet! Learn how you can start or join any conversation on Twitter. #TwitterTips https://t.co/yCccvPyqRI, name=twitter, retweet_count=1296, date=Wed Sep 07 21:32:50 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773232947621003264, text=This #TravelTuesday, see why Mark Twain once wrote, "heaven was copied after Mauritius."
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..🌴 https://t.co/2HJS8xhBqe https://t.co/gjHtHikxfK, name=twitter, retweet_count=233, date=Wed Sep 07 00:24:35 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=773229650096947200, text=@Nah_shelly Happy birthday, Nashelly! Here's another 🎈, name=twitter, retweet_count=15, date=Wed Sep 07 00:11:29 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=772130816591667201, text=We 👀 you, Jupiter. #JunoMission 
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..https://t.co/YphJMZhTo0, name=twitter, retweet_count=1006, date=Sat Sep 03 23:25:06 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771843919902420992, text=RT @gov: Tracking #Hermine this Labor Day weekend? Follow this list for live updates: https://t.co/kjRnzsiyO3 #FollowFriday https://t.co/DI…, name=twitter, retweet_count=126, date=Sat Sep 03 04:25:05 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771828918273777664, text=Summer's almost over. What's your #FridayFeeling?, name=twitter, retweet_count=532, date=Sat Sep 03 03:25:28 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771764801152266241, text=Us too, @rihanna! 😂 https://t.co/YAhFZ00jdU, name=twitter, retweet_count=495, date=Fri Sep 02 23:10:41 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771535667193008130, text=RT @gov: This week 8 government officials answered your #AtoZika questions from Twitter. See how the conversation unfolded. https://t.co/In…, name=twitter, retweet_count=248, date=Fri Sep 02 08:00:12 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771459175293464576, text=RT @TwitterAlas: We're proud to launch our new Twitter emoji to celebrate #HispanicHeritageMonth! https://t.co/JozS0U4iOt, name=twitter, retweet_count=277, date=Fri Sep 02 02:56:15 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771398168525144064, text=@AN_TY_ We're glad you enjoyed your birthday surprise!🎈, name=twitter, retweet_count=17, date=Thu Sep 01 22:53:49 IST 2016}
+2016-12-18 20:56:54 INFO  FileBasedQueue:74 - Dequeing..{id=771057930711896064, text=RT @BuzzFeed: Watch @ShawnMendes let @KeithHabs and his Twitter fans make some weird decisions for him during the day https://t.co/D8d6hKiL…, name=twitter, retweet_count=16694, date=Thu Sep 01 00:21:50 IST 2016}
+2016-12-18 20:56:54 INFO  Consumer:28 - ========= Indexing ends ==========
