@@ -29,6 +29,6 @@ Two workers are implemented here: Consumer and Indexer
   3. Run the app
 
 	``` java
-  java -Dtwitter4j.debug=true -Dtwitter4j.oauth.consumerKey=FPjyfCAco4ecpQ6oV1BTtHiKd -Dtwitter4j.oauth.consumerSecret=6Jv1p8L2LjLL35TYFUge8Ruj9k6yCJGquRQbEBkG6obm3Mi3yu -Dtwitter4j.oauth.accessToken=557985748-rQgcwLdZxEz07etRyBX0QZF121xoXAw32duYqTO4 -Dtwitter4j.oauth.accessTokenSecret=CXQJuHKOAoSdqNzYjlAODgNbKIjmClSWTSOiYR6uyTQT4 -Dlog4j.configuration=file:/Users/swati/personal/semantics3/twitter/src/main/resources/conf/log4j.properties -cp target/twitter-1.0-SNAPSHOT.jar:target/* com.twitter.app.App
+  java -Dtwitter4j.debug=true -Dtwitter4j.oauth.consumerKey=xxxxxx -Dtwitter4j.oauth.consumerSecret=xxxxxxxxxxxxx -Dtwitter4j.oauth.accessToken=xxxxxxxxxxxxxxx -Dtwitter4j.oauth.accessTokenSecret=xxxxxxxxxxxxxxx -Dlog4j.configuration=file:target/classes/conf/log4j.properties -cp target/twitter-1.0-SNAPSHOT.jar:target/* com.twitter.app.App
   ```
 
