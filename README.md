@@ -12,7 +12,7 @@ Two workers are implemented here: Consumer and Indexer
 	2. No offset management here, assuming the queue will manage its own offset
 
 # Queue
-  Queue used here is a file based queue
+  Queue used here is a file based queue [Hardcoded for now - /tmp/queue]
 
 # Build Instructions
 
